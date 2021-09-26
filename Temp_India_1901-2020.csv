@@ -1,0 +1,4201 @@
+Year,State_and_Country,Temperature
+1901,India,24.26
+1901,Andaman and Nicobar,27.81
+1901,Andhra Pradesh,27.04
+1901,Assam,22.77
+1901,Delhi,25.27
+1901,Goa,26.26
+1901,Gujarat,26.66
+1901,Haryana,25.09
+1901,Himachal Pradesh,9.8
+1901,Karnataka,25.44
+1901,Kerala,25.89
+1901,Lakshadweep,27.12
+1901,Maharashtra,26.17
+1901,Manipur,19.2
+1901,Meghalaya,21.37
+1901,Mizoram,21.11
+1901,Nagaland,18.69
+1901,Orissa,25.41
+1901,Punjab,24.5
+1901,Rajasthan,25.88
+1901,Sikkim,4.12
+1901,Tamil Nadu,26.93
+1901,Tripura,24.33
+1901,West Bengal,25.35
+1901,Arunachal Pradesh,18.15
+1901,Bihar,25.03
+1901,Chandigarh,23.56
+1901,Chhattisgarh,25.4
+1901,Dadra and Nagar Haveli,25.87
+1901,Daman and Diu,26.08
+1901,Jharkhand,24.59
+1901,Madhya Pradesh,25.4
+1901,Puducherry,27.78
+1901,Uttar Pradesh,25.47
+1901,Uttarakhand,13.88
+1902,India,24.52
+1902,Andaman and Nicobar,27.84
+1902,Andhra Pradesh,27.36
+1902,Assam,22.5
+1902,Delhi,25.52
+1902,Goa,26.64
+1902,Gujarat,27.19
+1902,Haryana,25.34
+1902,Himachal Pradesh,10.01
+1902,Karnataka,25.75
+1902,Kerala,25.92
+1902,Lakshadweep,27.04
+1902,Maharashtra,26.74
+1902,Manipur,18.92
+1902,Meghalaya,21.18
+1902,Mizoram,20.9
+1902,Nagaland,18.34
+1902,Orissa,25.6
+1902,Punjab,24.74
+1902,Rajasthan,26.22
+1902,Sikkim,4
+1902,Tamil Nadu,26.93
+1902,Tripura,24.15
+1902,West Bengal,25.3
+1902,Arunachal Pradesh,17.68
+1902,Bihar,25.07
+1902,Chandigarh,23.81
+1902,Chhattisgarh,25.72
+1902,Dadra and Nagar Haveli,26.48
+1902,Daman and Diu,26.67
+1902,Jharkhand,24.66
+1902,Madhya Pradesh,25.82
+1902,Puducherry,27.81
+1902,Uttar Pradesh,25.67
+1902,Uttarakhand,14.11
+1903,India,23.96
+1903,Andaman and Nicobar,27.63
+1903,Andhra Pradesh,26.77
+1903,Assam,22.73
+1903,Delhi,24.9
+1903,Goa,25.96
+1903,Gujarat,26.2
+1903,Haryana,24.68
+1903,Himachal Pradesh,9.4
+1903,Karnataka,25.18
+1903,Kerala,25.72
+1903,Lakshadweep,27.01
+1903,Maharashtra,25.86
+1903,Manipur,19.17
+1903,Meghalaya,21.36
+1903,Mizoram,21.09
+1903,Nagaland,18.63
+1903,Orissa,25.25
+1903,Punjab,24.06
+1903,Rajasthan,25.37
+1903,Sikkim,4.06
+1903,Tamil Nadu,26.75
+1903,Tripura,24.32
+1903,West Bengal,25.29
+1903,Arunachal Pradesh,18.01
+1903,Bihar,24.91
+1903,Chandigarh,23.19
+1903,Chhattisgarh,25.18
+1903,Dadra and Nagar Haveli,25.52
+1903,Daman and Diu,25.68
+1903,Jharkhand,24.45
+1903,Madhya Pradesh,25.03
+1903,Puducherry,27.58
+1903,Uttar Pradesh,25.16
+1903,Uttarakhand,13.58
+1904,India,24.02
+1904,Andaman and Nicobar,27.29
+1904,Andhra Pradesh,26.83
+1904,Assam,22.51
+1904,Delhi,24.95
+1904,Goa,26.07
+1904,Gujarat,26.59
+1904,Haryana,24.77
+1904,Himachal Pradesh,9.57
+1904,Karnataka,25.22
+1904,Kerala,25.46
+1904,Lakshadweep,26.62
+1904,Maharashtra,26.08
+1904,Manipur,18.96
+1904,Meghalaya,21.14
+1904,Mizoram,20.87
+1904,Nagaland,18.42
+1904,Orissa,25.16
+1904,Punjab,24.26
+1904,Rajasthan,25.62
+1904,Sikkim,3.83
+1904,Tamil Nadu,26.48
+1904,Tripura,24.09
+1904,West Bengal,25.08
+1904,Arunachal Pradesh,17.83
+1904,Bihar,24.7
+1904,Chandigarh,23.28
+1904,Chhattisgarh,25.15
+1904,Dadra and Nagar Haveli,25.86
+1904,Daman and Diu,26.07
+1904,Jharkhand,24.28
+1904,Madhya Pradesh,25.13
+1904,Puducherry,27.37
+1904,Uttar Pradesh,25.11
+1904,Uttarakhand,13.59
+1905,India,23.87
+1905,Andaman and Nicobar,27.8
+1905,Andhra Pradesh,26.96
+1905,Assam,22.11
+1905,Delhi,24.65
+1905,Goa,26.13
+1905,Gujarat,26.25
+1905,Haryana,24.43
+1905,Himachal Pradesh,9.03
+1905,Karnataka,25.38
+1905,Kerala,25.83
+1905,Lakshadweep,27.07
+1905,Maharashtra,25.99
+1905,Manipur,18.57
+1905,Meghalaya,20.72
+1905,Mizoram,20.49
+1905,Nagaland,18.02
+1905,Orissa,25.03
+1905,Punjab,23.77
+1905,Rajasthan,25.37
+1905,Sikkim,3.41
+1905,Tamil Nadu,26.88
+1905,Tripura,23.69
+1905,West Bengal,24.75
+1905,Arunachal Pradesh,17.46
+1905,Bihar,24.41
+1905,Chandigarh,22.81
+1905,Chhattisgarh,25.1
+1905,Dadra and Nagar Haveli,25.62
+1905,Daman and Diu,25.72
+1905,Jharkhand,24.06
+1905,Madhya Pradesh,25.02
+1905,Puducherry,27.72
+1905,Uttar Pradesh,24.9
+1905,Uttarakhand,13.22
+1906,India,24.11
+1906,Andaman and Nicobar,27.92
+1906,Andhra Pradesh,27.15
+1906,Assam,22.64
+1906,Delhi,24.87
+1906,Goa,26.28
+1906,Gujarat,26.31
+1906,Haryana,24.69
+1906,Himachal Pradesh,9.52
+1906,Karnataka,25.51
+1906,Kerala,25.93
+1906,Lakshadweep,27.14
+1906,Maharashtra,26.13
+1906,Manipur,19.12
+1906,Meghalaya,21.27
+1906,Mizoram,21.05
+1906,Nagaland,18.55
+1906,Orissa,25.4
+1906,Punjab,24.17
+1906,Rajasthan,25.42
+1906,Sikkim,4
+1906,Tamil Nadu,26.99
+1906,Tripura,24.25
+1906,West Bengal,25.26
+1906,Arunachal Pradesh,17.96
+1906,Bihar,24.86
+1906,Chandigarh,23.22
+1906,Chhattisgarh,25.36
+1906,Dadra and Nagar Haveli,25.72
+1906,Daman and Diu,25.81
+1906,Jharkhand,24.47
+1906,Madhya Pradesh,25.15
+1906,Puducherry,27.85
+1906,Uttar Pradesh,25.16
+1906,Uttarakhand,13.58
+1907,India,23.97
+1907,Andaman and Nicobar,27.31
+1907,Andhra Pradesh,26.92
+1907,Assam,22.52
+1907,Delhi,24.66
+1907,Goa,26.18
+1907,Gujarat,26.42
+1907,Haryana,24.48
+1907,Himachal Pradesh,9.25
+1907,Karnataka,25.34
+1907,Kerala,25.65
+1907,Lakshadweep,26.82
+1907,Maharashtra,26.11
+1907,Manipur,18.97
+1907,Meghalaya,21.14
+1907,Mizoram,20.91
+1907,Nagaland,18.42
+1907,Orissa,25.21
+1907,Punjab,23.9
+1907,Rajasthan,25.33
+1907,Sikkim,3.85
+1907,Tamil Nadu,26.68
+1907,Tripura,24.13
+1907,West Bengal,25.13
+1907,Arunachal Pradesh,17.82
+1907,Bihar,24.74
+1907,Chandigarh,22.98
+1907,Chhattisgarh,25.21
+1907,Dadra and Nagar Haveli,25.81
+1907,Daman and Diu,25.96
+1907,Jharkhand,24.34
+1907,Madhya Pradesh,25.11
+1907,Puducherry,27.56
+1907,Uttar Pradesh,25.02
+1907,Uttarakhand,13.37
+1908,India,24.01
+1908,Andaman and Nicobar,27.24
+1908,Andhra Pradesh,26.85
+1908,Assam,22.86
+1908,Delhi,24.84
+1908,Goa,26.02
+1908,Gujarat,26.1
+1908,Haryana,24.62
+1908,Himachal Pradesh,9.53
+1908,Karnataka,25.22
+1908,Kerala,25.58
+1908,Lakshadweep,26.77
+1908,Maharashtra,25.96
+1908,Manipur,19.27
+1908,Meghalaya,21.47
+1908,Mizoram,21.17
+1908,Nagaland,18.75
+1908,Orissa,25.36
+1908,Punjab,24.09
+1908,Rajasthan,25.23
+1908,Sikkim,4.24
+1908,Tamil Nadu,26.61
+1908,Tripura,24.39
+1908,West Bengal,25.41
+1908,Arunachal Pradesh,18.18
+1908,Bihar,25.08
+1908,Chandigarh,23.2
+1908,Chhattisgarh,25.29
+1908,Dadra and Nagar Haveli,25.55
+1908,Daman and Diu,25.62
+1908,Jharkhand,24.59
+1908,Madhya Pradesh,25.07
+1908,Puducherry,27.48
+1908,Uttar Pradesh,25.26
+1908,Uttarakhand,13.63
+1909,India,23.92
+1909,Andaman and Nicobar,27.25
+1909,Andhra Pradesh,26.92
+1909,Assam,22.97
+1909,Delhi,24.41
+1909,Goa,26.16
+1909,Gujarat,26.09
+1909,Haryana,24.22
+1909,Himachal Pradesh,9.14
+1909,Karnataka,25.33
+1909,Kerala,25.62
+1909,Lakshadweep,26.81
+1909,Maharashtra,26.04
+1909,Manipur,19.41
+1909,Meghalaya,21.54
+1909,Mizoram,21.3
+1909,Nagaland,18.91
+1909,Orissa,25.21
+1909,Punjab,23.7
+1909,Rajasthan,24.99
+1909,Sikkim,4.19
+1909,Tamil Nadu,26.64
+1909,Tripura,24.5
+1909,West Bengal,25.33
+1909,Arunachal Pradesh,18.36
+1909,Bihar,24.9
+1909,Chandigarh,22.77
+1909,Chhattisgarh,25.13
+1909,Dadra and Nagar Haveli,25.67
+1909,Daman and Diu,25.66
+1909,Jharkhand,24.4
+1909,Madhya Pradesh,24.93
+1909,Puducherry,27.51
+1909,Uttar Pradesh,24.95
+1909,Uttarakhand,13.2
+1910,India,23.8
+1910,Andaman and Nicobar,27.2
+1910,Andhra Pradesh,26.75
+1910,Assam,22.51
+1910,Delhi,24.5
+1910,Goa,25.96
+1910,Gujarat,26.05
+1910,Haryana,24.34
+1910,Himachal Pradesh,9.19
+1910,Karnataka,25.16
+1910,Kerala,25.56
+1910,Lakshadweep,26.78
+1910,Maharashtra,25.87
+1910,Manipur,18.94
+1910,Meghalaya,21.1
+1910,Mizoram,20.84
+1910,Nagaland,18.42
+1910,Orissa,25.07
+1910,Punjab,23.8
+1910,Rajasthan,25.07
+1910,Sikkim,3.77
+1910,Tamil Nadu,26.59
+1910,Tripura,24.04
+1910,West Bengal,25
+1910,Arunachal Pradesh,17.84
+1910,Bihar,24.59
+1910,Chandigarh,22.89
+1910,Chhattisgarh,25.03
+1910,Dadra and Nagar Haveli,25.5
+1910,Daman and Diu,25.57
+1910,Jharkhand,24.18
+1910,Madhya Pradesh,24.84
+1910,Puducherry,27.45
+1910,Uttar Pradesh,24.85
+1910,Uttarakhand,13.26
+1911,India,24.14
+1911,Andaman and Nicobar,27.45
+1911,Andhra Pradesh,27.12
+1911,Assam,22.4
+1911,Delhi,24.91
+1911,Goa,26.43
+1911,Gujarat,26.52
+1911,Haryana,24.74
+1911,Himachal Pradesh,9.5
+1911,Karnataka,25.59
+1911,Kerala,25.92
+1911,Lakshadweep,27.06
+1911,Maharashtra,26.34
+1911,Manipur,18.84
+1911,Meghalaya,21.04
+1911,Mizoram,20.76
+1911,Nagaland,18.29
+1911,Orissa,25.27
+1911,Punjab,24.17
+1911,Rajasthan,25.56
+1911,Sikkim,3.74
+1911,Tamil Nadu,26.92
+1911,Tripura,23.99
+1911,West Bengal,25.02
+1911,Arunachal Pradesh,17.66
+1911,Bihar,24.69
+1911,Chandigarh,23.23
+1911,Chhattisgarh,25.33
+1911,Dadra and Nagar Haveli,26.01
+1911,Daman and Diu,26.04
+1911,Jharkhand,24.29
+1911,Madhya Pradesh,25.34
+1911,Puducherry,27.78
+1911,Uttar Pradesh,25.19
+1911,Uttarakhand,13.58
+1912,India,24.29
+1912,Andaman and Nicobar,27.45
+1912,Andhra Pradesh,27.32
+1912,Assam,22.54
+1912,Delhi,24.93
+1912,Goa,26.58
+1912,Gujarat,26.84
+1912,Haryana,24.74
+1912,Himachal Pradesh,9.51
+1912,Karnataka,25.76
+1912,Kerala,26
+1912,Lakshadweep,27.12
+1912,Maharashtra,26.58
+1912,Manipur,19.02
+1912,Meghalaya,21.18
+1912,Mizoram,20.96
+1912,Nagaland,18.44
+1912,Orissa,25.45
+1912,Punjab,24.19
+1912,Rajasthan,25.68
+1912,Sikkim,3.84
+1912,Tamil Nadu,27
+1912,Tripura,24.17
+1912,West Bengal,25.18
+1912,Arunachal Pradesh,17.82
+1912,Bihar,24.79
+1912,Chandigarh,23.22
+1912,Chhattisgarh,25.54
+1912,Dadra and Nagar Haveli,26.28
+1912,Daman and Diu,26.41
+1912,Jharkhand,24.47
+1912,Madhya Pradesh,25.48
+1912,Puducherry,27.87
+1912,Uttar Pradesh,25.22
+1912,Uttarakhand,13.56
+1913,India,23.98
+1913,Andaman and Nicobar,27.51
+1913,Andhra Pradesh,27.13
+1913,Assam,22.35
+1913,Delhi,24.59
+1913,Goa,26.33
+1913,Gujarat,26.41
+1913,Haryana,24.4
+1913,Himachal Pradesh,9.12
+1913,Karnataka,25.54
+1913,Kerala,25.88
+1913,Lakshadweep,27.07
+1913,Maharashtra,26.22
+1913,Manipur,18.83
+1913,Meghalaya,20.96
+1913,Mizoram,20.75
+1913,Nagaland,18.28
+1913,Orissa,25.16
+1913,Punjab,23.81
+1913,Rajasthan,25.32
+1913,Sikkim,3.63
+1913,Tamil Nadu,26.91
+1913,Tripura,23.96
+1913,West Bengal,24.96
+1913,Arunachal Pradesh,17.74
+1913,Bihar,24.52
+1913,Chandigarh,22.87
+1913,Chhattisgarh,25.23
+1913,Dadra and Nagar Haveli,25.89
+1913,Daman and Diu,25.93
+1913,Jharkhand,24.18
+1913,Madhya Pradesh,25.16
+1913,Puducherry,27.77
+1913,Uttar Pradesh,24.89
+1913,Uttarakhand,13.21
+1914,India,24.1
+1914,Andaman and Nicobar,27.52
+1914,Andhra Pradesh,27.01
+1914,Assam,22.47
+1914,Delhi,24.77
+1914,Goa,26.36
+1914,Gujarat,26.63
+1914,Haryana,24.6
+1914,Himachal Pradesh,9.4
+1914,Karnataka,25.53
+1914,Kerala,25.92
+1914,Lakshadweep,27.17
+1914,Maharashtra,26.28
+1914,Manipur,18.91
+1914,Meghalaya,21.08
+1914,Mizoram,20.82
+1914,Nagaland,18.37
+1914,Orissa,25.2
+1914,Punjab,24.05
+1914,Rajasthan,25.51
+1914,Sikkim,3.79
+1914,Tamil Nadu,26.9
+1914,Tripura,24.03
+1914,West Bengal,25.06
+1914,Arunachal Pradesh,17.79
+1914,Bihar,24.71
+1914,Chandigarh,23.08
+1914,Chhattisgarh,25.28
+1914,Dadra and Nagar Haveli,26.02
+1914,Daman and Diu,26.15
+1914,Jharkhand,24.31
+1914,Madhya Pradesh,25.31
+1914,Puducherry,27.75
+1914,Uttar Pradesh,25.11
+1914,Uttarakhand,13.44
+1915,India,24.5
+1915,Andaman and Nicobar,27.54
+1915,Andhra Pradesh,27.32
+1915,Assam,23.09
+1915,Delhi,25.39
+1915,Goa,26.51
+1915,Gujarat,26.89
+1915,Haryana,25.19
+1915,Himachal Pradesh,10
+1915,Karnataka,25.71
+1915,Kerala,26.06
+1915,Lakshadweep,27.26
+1915,Maharashtra,26.51
+1915,Manipur,19.53
+1915,Meghalaya,21.7
+1915,Mizoram,21.44
+1915,Nagaland,19
+1915,Orissa,25.65
+1915,Punjab,24.68
+1915,Rajasthan,26.03
+1915,Sikkim,4.36
+1915,Tamil Nadu,27.08
+1915,Tripura,24.65
+1915,West Bengal,25.61
+1915,Arunachal Pradesh,18.41
+1915,Bihar,25.22
+1915,Chandigarh,23.65
+1915,Chhattisgarh,25.65
+1915,Dadra and Nagar Haveli,26.2
+1915,Daman and Diu,26.34
+1915,Jharkhand,24.79
+1915,Madhya Pradesh,25.66
+1915,Puducherry,27.93
+1915,Uttar Pradesh,25.62
+1915,Uttarakhand,13.99
+1916,India,24.12
+1916,Andaman and Nicobar,27.2
+1916,Andhra Pradesh,26.97
+1916,Assam,22.96
+1916,Delhi,24.82
+1916,Goa,26.25
+1916,Gujarat,26.54
+1916,Haryana,24.72
+1916,Himachal Pradesh,9.67
+1916,Karnataka,25.4
+1916,Kerala,25.72
+1916,Lakshadweep,26.92
+1916,Maharashtra,26.2
+1916,Manipur,19.42
+1916,Meghalaya,21.51
+1916,Mizoram,21.27
+1916,Nagaland,18.93
+1916,Orissa,25.28
+1916,Punjab,24.27
+1916,Rajasthan,25.47
+1916,Sikkim,4.08
+1916,Tamil Nadu,26.73
+1916,Tripura,24.44
+1916,West Bengal,25.29
+1916,Arunachal Pradesh,18.42
+1916,Bihar,24.88
+1916,Chandigarh,23.28
+1916,Chhattisgarh,25.24
+1916,Dadra and Nagar Haveli,25.97
+1916,Daman and Diu,26.09
+1916,Jharkhand,24.43
+1916,Madhya Pradesh,25.16
+1916,Puducherry,27.6
+1916,Uttar Pradesh,25.15
+1916,Uttarakhand,13.59
+1917,India,23.47
+1917,Andaman and Nicobar,27.11
+1917,Andhra Pradesh,26.43
+1917,Assam,22.58
+1917,Delhi,23.85
+1917,Goa,25.73
+1917,Gujarat,25.93
+1917,Haryana,23.7
+1917,Himachal Pradesh,8.74
+1917,Karnataka,24.89
+1917,Kerala,25.37
+1917,Lakshadweep,26.66
+1917,Maharashtra,25.56
+1917,Manipur,19.06
+1917,Meghalaya,21.11
+1917,Mizoram,20.91
+1917,Nagaland,18.56
+1917,Orissa,24.75
+1917,Punjab,23.3
+1917,Rajasthan,24.64
+1917,Sikkim,3.62
+1917,Tamil Nadu,26.38
+1917,Tripura,24.08
+1917,West Bengal,24.84
+1917,Arunachal Pradesh,18.05
+1917,Bihar,24.28
+1917,Chandigarh,22.26
+1917,Chhattisgarh,24.66
+1917,Dadra and Nagar Haveli,25.36
+1917,Daman and Diu,25.53
+1917,Jharkhand,23.89
+1917,Madhya Pradesh,24.38
+1917,Puducherry,27.22
+1917,Uttar Pradesh,24.26
+1917,Uttarakhand,12.61
+1918,India,24.06
+1918,Andaman and Nicobar,27.24
+1918,Andhra Pradesh,26.95
+1918,Assam,22.57
+1918,Delhi,24.89
+1918,Goa,26.31
+1918,Gujarat,26.53
+1918,Haryana,24.7
+1918,Himachal Pradesh,9.43
+1918,Karnataka,25.39
+1918,Kerala,25.6
+1918,Lakshadweep,26.76
+1918,Maharashtra,26.27
+1918,Manipur,19.03
+1918,Meghalaya,21.11
+1918,Mizoram,20.89
+1918,Nagaland,18.53
+1918,Orissa,25.16
+1918,Punjab,24.09
+1918,Rajasthan,25.52
+1918,Sikkim,3.77
+1918,Tamil Nadu,26.6
+1918,Tripura,24.05
+1918,West Bengal,24.99
+1918,Arunachal Pradesh,18.01
+1918,Bihar,24.68
+1918,Chandigarh,23.16
+1918,Chhattisgarh,25.25
+1918,Dadra and Nagar Haveli,26
+1918,Daman and Diu,26.07
+1918,Jharkhand,24.24
+1918,Madhya Pradesh,25.29
+1918,Puducherry,27.49
+1918,Uttar Pradesh,25.15
+1918,Uttarakhand,13.55
+1919,India,24.1
+1919,Andaman and Nicobar,27.77
+1919,Andhra Pradesh,27.24
+1919,Assam,23.06
+1919,Delhi,24.52
+1919,Goa,26.46
+1919,Gujarat,26.48
+1919,Haryana,24.34
+1919,Himachal Pradesh,9.1
+1919,Karnataka,25.65
+1919,Kerala,26.01
+1919,Lakshadweep,27.18
+1919,Maharashtra,26.3
+1919,Manipur,19.54
+1919,Meghalaya,21.58
+1919,Mizoram,21.38
+1919,Nagaland,19.05
+1919,Orissa,25.39
+1919,Punjab,23.77
+1919,Rajasthan,25.29
+1919,Sikkim,4.09
+1919,Tamil Nadu,27.05
+1919,Tripura,24.55
+1919,West Bengal,25.37
+1919,Arunachal Pradesh,18.57
+1919,Bihar,24.78
+1919,Chandigarh,22.83
+1919,Chhattisgarh,25.36
+1919,Dadra and Nagar Haveli,26
+1919,Daman and Diu,26.04
+1919,Jharkhand,24.45
+1919,Madhya Pradesh,25.12
+1919,Puducherry,27.9
+1919,Uttar Pradesh,24.89
+1919,Uttarakhand,13.21
+1920,India,24.28
+1920,Andaman and Nicobar,27.31
+1920,Andhra Pradesh,27.4
+1920,Assam,22.96
+1920,Delhi,24.78
+1920,Goa,26.53
+1920,Gujarat,26.69
+1920,Haryana,24.5
+1920,Himachal Pradesh,9.15
+1920,Karnataka,25.72
+1920,Kerala,26.02
+1920,Lakshadweep,27.13
+1920,Maharashtra,26.53
+1920,Manipur,19.42
+1920,Meghalaya,21.55
+1920,Mizoram,21.3
+1920,Nagaland,18.9
+1920,Orissa,25.68
+1920,Punjab,23.83
+1920,Rajasthan,25.49
+1920,Sikkim,4.18
+1920,Tamil Nadu,27.11
+1920,Tripura,24.51
+1920,West Bengal,25.49
+1920,Arunachal Pradesh,18.33
+1920,Bihar,25.05
+1920,Chandigarh,22.95
+1920,Chhattisgarh,25.7
+1920,Dadra and Nagar Haveli,26.25
+1920,Daman and Diu,26.27
+1920,Jharkhand,24.71
+1920,Madhya Pradesh,25.44
+1920,Puducherry,28
+1920,Uttar Pradesh,25.26
+1920,Uttarakhand,13.39
+1921,India,24.54
+1921,Andaman and Nicobar,27.26
+1921,Andhra Pradesh,27.23
+1921,Assam,22.96
+1921,Delhi,25.69
+1921,Goa,26.4
+1921,Gujarat,27
+1921,Haryana,25.44
+1921,Himachal Pradesh,10.07
+1921,Karnataka,25.56
+1921,Kerala,25.79
+1921,Lakshadweep,27.03
+1921,Maharashtra,26.55
+1921,Manipur,19.44
+1921,Meghalaya,21.53
+1921,Mizoram,21.27
+1921,Nagaland,18.96
+1921,Orissa,25.68
+1921,Punjab,24.8
+1921,Rajasthan,26.28
+1921,Sikkim,4.24
+1921,Tamil Nadu,26.83
+1921,Tripura,24.47
+1921,West Bengal,25.5
+1921,Arunachal Pradesh,18.46
+1921,Bihar,25.25
+1921,Chandigarh,23.88
+1921,Chhattisgarh,25.77
+1921,Dadra and Nagar Haveli,26.31
+1921,Daman and Diu,26.44
+1921,Jharkhand,24.82
+1921,Madhya Pradesh,25.84
+1921,Puducherry,27.72
+1921,Uttar Pradesh,25.83
+1921,Uttarakhand,14.26
+1922,India,24.24
+1922,Andaman and Nicobar,27.02
+1922,Andhra Pradesh,27.11
+1922,Assam,23.19
+1922,Delhi,25.02
+1922,Goa,26.22
+1922,Gujarat,26.61
+1922,Haryana,24.87
+1922,Himachal Pradesh,9.72
+1922,Karnataka,25.38
+1922,Kerala,25.61
+1922,Lakshadweep,26.8
+1922,Maharashtra,26.25
+1922,Manipur,19.67
+1922,Meghalaya,21.7
+1922,Mizoram,21.46
+1922,Nagaland,19.21
+1922,Orissa,25.52
+1922,Punjab,24.36
+1922,Rajasthan,25.64
+1922,Sikkim,4.31
+1922,Tamil Nadu,26.67
+1922,Tripura,24.63
+1922,West Bengal,25.54
+1922,Arunachal Pradesh,18.75
+1922,Bihar,25.07
+1922,Chandigarh,23.43
+1922,Chhattisgarh,25.47
+1922,Dadra and Nagar Haveli,25.97
+1922,Daman and Diu,26.12
+1922,Jharkhand,24.67
+1922,Madhya Pradesh,25.29
+1922,Puducherry,27.57
+1922,Uttar Pradesh,25.27
+1922,Uttarakhand,13.76
+1923,India,24.24
+1923,Andaman and Nicobar,27.09
+1923,Andhra Pradesh,27.17
+1923,Assam,23.06
+1923,Delhi,24.94
+1923,Goa,26.3
+1923,Gujarat,26.5
+1923,Haryana,24.7
+1923,Himachal Pradesh,9.47
+1923,Karnataka,25.47
+1923,Kerala,25.63
+1923,Lakshadweep,26.8
+1923,Maharashtra,26.33
+1923,Manipur,19.49
+1923,Meghalaya,21.62
+1923,Mizoram,21.32
+1923,Nagaland,19.01
+1923,Orissa,25.58
+1923,Punjab,24.08
+1923,Rajasthan,25.49
+1923,Sikkim,4.34
+1923,Tamil Nadu,26.69
+1923,Tripura,24.52
+1923,West Bengal,25.54
+1923,Arunachal Pradesh,18.57
+1923,Bihar,25.18
+1923,Chandigarh,23.21
+1923,Chhattisgarh,25.58
+1923,Dadra and Nagar Haveli,25.97
+1923,Daman and Diu,26.03
+1923,Jharkhand,24.73
+1923,Madhya Pradesh,25.43
+1923,Puducherry,27.59
+1923,Uttar Pradesh,25.4
+1923,Uttarakhand,13.63
+1924,India,24.4
+1924,Andaman and Nicobar,27.27
+1924,Andhra Pradesh,27.42
+1924,Assam,23.23
+1924,Delhi,24.92
+1924,Goa,26.57
+1924,Gujarat,26.77
+1924,Haryana,24.69
+1924,Himachal Pradesh,9.45
+1924,Karnataka,25.72
+1924,Kerala,25.83
+1924,Lakshadweep,27.03
+1924,Maharashtra,26.61
+1924,Manipur,19.68
+1924,Meghalaya,21.81
+1924,Mizoram,21.53
+1924,Nagaland,19.19
+1924,Orissa,25.84
+1924,Punjab,24.08
+1924,Rajasthan,25.58
+1924,Sikkim,4.49
+1924,Tamil Nadu,26.88
+1924,Tripura,24.75
+1924,West Bengal,25.74
+1924,Arunachal Pradesh,18.69
+1924,Bihar,25.3
+1924,Chandigarh,23.19
+1924,Chhattisgarh,25.78
+1924,Dadra and Nagar Haveli,26.28
+1924,Daman and Diu,26.32
+1924,Jharkhand,24.94
+1924,Madhya Pradesh,25.54
+1924,Puducherry,27.78
+1924,Uttar Pradesh,25.41
+1924,Uttarakhand,13.59
+1925,India,23.94
+1925,Andaman and Nicobar,27.17
+1925,Andhra Pradesh,26.89
+1925,Assam,22.41
+1925,Delhi,24.63
+1925,Goa,26.33
+1925,Gujarat,26.71
+1925,Haryana,24.49
+1925,Himachal Pradesh,9.3
+1925,Karnataka,25.38
+1925,Kerala,25.58
+1925,Lakshadweep,26.83
+1925,Maharashtra,26.18
+1925,Manipur,18.92
+1925,Meghalaya,20.97
+1925,Mizoram,20.78
+1925,Nagaland,18.4
+1925,Orissa,25.06
+1925,Punjab,23.98
+1925,Rajasthan,25.44
+1925,Sikkim,3.58
+1925,Tamil Nadu,26.61
+1925,Tripura,23.95
+1925,West Bengal,24.86
+1925,Arunachal Pradesh,17.88
+1925,Bihar,24.44
+1925,Chandigarh,23.02
+1925,Chhattisgarh,25.05
+1925,Dadra and Nagar Haveli,26.03
+1925,Daman and Diu,26.23
+1925,Jharkhand,24.08
+1925,Madhya Pradesh,25.01
+1925,Puducherry,27.5
+1925,Uttar Pradesh,24.83
+1925,Uttarakhand,13.28
+1926,India,24.11
+1926,Andaman and Nicobar,27.54
+1926,Andhra Pradesh,27.3
+1926,Assam,22.93
+1926,Delhi,24.38
+1926,Goa,26.65
+1926,Gujarat,26.67
+1926,Haryana,24.22
+1926,Himachal Pradesh,9.07
+1926,Karnataka,25.75
+1926,Kerala,26.01
+1926,Lakshadweep,27.18
+1926,Maharashtra,26.41
+1926,Manipur,19.4
+1926,Meghalaya,21.42
+1926,Mizoram,21.24
+1926,Nagaland,18.95
+1926,Orissa,25.39
+1926,Punjab,23.7
+1926,Rajasthan,25.25
+1926,Sikkim,3.99
+1926,Tamil Nadu,27.04
+1926,Tripura,24.4
+1926,West Bengal,25.28
+1926,Arunachal Pradesh,18.55
+1926,Bihar,24.72
+1926,Chandigarh,22.75
+1926,Chhattisgarh,25.36
+1926,Dadra and Nagar Haveli,26.15
+1926,Daman and Diu,26.25
+1926,Jharkhand,24.43
+1926,Madhya Pradesh,25.11
+1926,Puducherry,27.93
+1926,Uttar Pradesh,24.82
+1926,Uttarakhand,13.08
+1927,India,24.01
+1927,Andaman and Nicobar,27.24
+1927,Andhra Pradesh,27.34
+1927,Assam,22.74
+1927,Delhi,24.37
+1927,Goa,26.45
+1927,Gujarat,26.15
+1927,Haryana,24.18
+1927,Himachal Pradesh,9.1
+1927,Karnataka,25.63
+1927,Kerala,25.87
+1927,Lakshadweep,27.03
+1927,Maharashtra,26.19
+1927,Manipur,19.2
+1927,Meghalaya,21.27
+1927,Mizoram,21.05
+1927,Nagaland,18.75
+1927,Orissa,25.53
+1927,Punjab,23.69
+1927,Rajasthan,24.97
+1927,Sikkim,3.93
+1927,Tamil Nadu,26.92
+1927,Tripura,24.25
+1927,West Bengal,25.27
+1927,Arunachal Pradesh,18.34
+1927,Bihar,24.76
+1927,Chandigarh,22.8
+1927,Chhattisgarh,25.45
+1927,Dadra and Nagar Haveli,25.76
+1927,Daman and Diu,25.74
+1927,Jharkhand,24.5
+1927,Madhya Pradesh,24.96
+1927,Puducherry,27.81
+1927,Uttar Pradesh,24.84
+1927,Uttarakhand,13.16
+1928,India,24.38
+1928,Andaman and Nicobar,27.42
+1928,Andhra Pradesh,27.35
+1928,Assam,23.13
+1928,Delhi,25.17
+1928,Goa,26.56
+1928,Gujarat,26.6
+1928,Haryana,25.03
+1928,Himachal Pradesh,9.91
+1928,Karnataka,25.72
+1928,Kerala,25.99
+1928,Lakshadweep,27.15
+1928,Maharashtra,26.4
+1928,Manipur,19.6
+1928,Meghalaya,21.65
+1928,Mizoram,21.43
+1928,Nagaland,19.15
+1928,Orissa,25.65
+1928,Punjab,24.53
+1928,Rajasthan,25.71
+1928,Sikkim,4.32
+1928,Tamil Nadu,27.05
+1928,Tripura,24.61
+1928,West Bengal,25.54
+1928,Arunachal Pradesh,18.72
+1928,Bihar,25.19
+1928,Chandigarh,23.61
+1928,Chhattisgarh,25.62
+1928,Dadra and Nagar Haveli,26.01
+1928,Daman and Diu,26.12
+1928,Jharkhand,24.75
+1928,Madhya Pradesh,25.46
+1928,Puducherry,27.94
+1928,Uttar Pradesh,25.48
+1928,Uttarakhand,13.97
+1929,India,24.21
+1929,Andaman and Nicobar,27.36
+1929,Andhra Pradesh,27.19
+1929,Assam,22.89
+1929,Delhi,24.94
+1929,Goa,26.6
+1929,Gujarat,26.65
+1929,Haryana,24.77
+1929,Himachal Pradesh,9.6
+1929,Karnataka,25.63
+1929,Kerala,25.75
+1929,Lakshadweep,26.88
+1929,Maharashtra,26.41
+1929,Manipur,19.39
+1929,Meghalaya,21.4
+1929,Mizoram,21.22
+1929,Nagaland,18.9
+1929,Orissa,25.4
+1929,Punjab,24.22
+1929,Rajasthan,25.52
+1929,Sikkim,4.05
+1929,Tamil Nadu,26.79
+1929,Tripura,24.38
+1929,West Bengal,25.28
+1929,Arunachal Pradesh,18.47
+1929,Bihar,24.93
+1929,Chandigarh,23.31
+1929,Chhattisgarh,25.39
+1929,Dadra and Nagar Haveli,26.2
+1929,Daman and Diu,26.23
+1929,Jharkhand,24.49
+1929,Madhya Pradesh,25.28
+1929,Puducherry,27.68
+1929,Uttar Pradesh,25.27
+1929,Uttarakhand,13.69
+1930,India,24.07
+1930,Andaman and Nicobar,27.35
+1930,Andhra Pradesh,27.04
+1930,Assam,22.81
+1930,Delhi,24.68
+1930,Goa,26.39
+1930,Gujarat,26.51
+1930,Haryana,24.48
+1930,Himachal Pradesh,9.25
+1930,Karnataka,25.51
+1930,Kerala,25.76
+1930,Lakshadweep,26.98
+1930,Maharashtra,26.28
+1930,Manipur,19.29
+1930,Meghalaya,21.33
+1930,Mizoram,21.14
+1930,Nagaland,18.82
+1930,Orissa,25.3
+1930,Punjab,23.89
+1930,Rajasthan,25.33
+1930,Sikkim,3.98
+1930,Tamil Nadu,26.8
+1930,Tripura,24.31
+1930,West Bengal,25.2
+1930,Arunachal Pradesh,18.37
+1930,Bihar,24.85
+1930,Chandigarh,22.99
+1930,Chhattisgarh,25.31
+1930,Dadra and Nagar Haveli,26.01
+1930,Daman and Diu,26.07
+1930,Jharkhand,24.41
+1930,Madhya Pradesh,25.2
+1930,Puducherry,27.67
+1930,Uttar Pradesh,25.1
+1930,Uttarakhand,13.37
+1931,India,24.44
+1931,Andaman and Nicobar,27.57
+1931,Andhra Pradesh,27.3
+1931,Assam,23.2
+1931,Delhi,25
+1931,Goa,26.61
+1931,Gujarat,26.87
+1931,Haryana,24.88
+1931,Himachal Pradesh,9.79
+1931,Karnataka,25.73
+1931,Kerala,25.98
+1931,Lakshadweep,27.13
+1931,Maharashtra,26.57
+1931,Manipur,19.68
+1931,Meghalaya,21.75
+1931,Mizoram,21.54
+1931,Nagaland,19.19
+1931,Orissa,25.66
+1931,Punjab,24.39
+1931,Rajasthan,25.75
+1931,Sikkim,4.37
+1931,Tamil Nadu,27.02
+1931,Tripura,24.72
+1931,West Bengal,25.59
+1931,Arunachal Pradesh,18.76
+1931,Bihar,25.26
+1931,Chandigarh,23.43
+1931,Chhattisgarh,25.67
+1931,Dadra and Nagar Haveli,26.31
+1931,Daman and Diu,26.45
+1931,Jharkhand,24.83
+1931,Madhya Pradesh,25.58
+1931,Puducherry,27.89
+1931,Uttar Pradesh,25.48
+1931,Uttarakhand,13.8
+1932,India,24.3
+1932,Andaman and Nicobar,27.26
+1932,Andhra Pradesh,26.95
+1932,Assam,23.12
+1932,Delhi,25.3
+1932,Goa,26.35
+1932,Gujarat,26.81
+1932,Haryana,25.08
+1932,Himachal Pradesh,9.96
+1932,Karnataka,25.39
+1932,Kerala,25.54
+1932,Lakshadweep,26.69
+1932,Maharashtra,26.33
+1932,Manipur,19.57
+1932,Meghalaya,21.7
+1932,Mizoram,21.45
+1932,Nagaland,19.07
+1932,Orissa,25.52
+1932,Punjab,24.59
+1932,Rajasthan,25.83
+1932,Sikkim,4.34
+1932,Tamil Nadu,26.58
+1932,Tripura,24.66
+1932,West Bengal,25.53
+1932,Arunachal Pradesh,18.5
+1932,Bihar,25.21
+1932,Chandigarh,23.63
+1932,Chhattisgarh,25.45
+1932,Dadra and Nagar Haveli,26.13
+1932,Daman and Diu,26.32
+1932,Jharkhand,24.73
+1932,Madhya Pradesh,25.36
+1932,Puducherry,27.45
+1932,Uttar Pradesh,25.48
+1932,Uttarakhand,13.95
+1933,India,23.83
+1933,Andaman and Nicobar,27.47
+1933,Andhra Pradesh,26.75
+1933,Assam,23
+1933,Delhi,24.26
+1933,Goa,26.15
+1933,Gujarat,26.47
+1933,Haryana,24.16
+1933,Himachal Pradesh,9.13
+1933,Karnataka,25.2
+1933,Kerala,25.41
+1933,Lakshadweep,26.54
+1933,Maharashtra,26.01
+1933,Manipur,19.45
+1933,Meghalaya,21.42
+1933,Mizoram,21.23
+1933,Nagaland,19.09
+1933,Orissa,25.06
+1933,Punjab,23.77
+1933,Rajasthan,25.11
+1933,Sikkim,3.94
+1933,Tamil Nadu,26.46
+1933,Tripura,24.4
+1933,West Bengal,25.12
+1933,Arunachal Pradesh,18.82
+1933,Bihar,24.59
+1933,Chandigarh,22.73
+1933,Chhattisgarh,25.01
+1933,Dadra and Nagar Haveli,25.88
+1933,Daman and Diu,26.07
+1933,Jharkhand,24.21
+1933,Madhya Pradesh,24.77
+1933,Puducherry,27.32
+1933,Uttar Pradesh,24.6
+1933,Uttarakhand,13.01
+1934,India,24
+1934,Andaman and Nicobar,27.29
+1934,Andhra Pradesh,26.82
+1934,Assam,23
+1934,Delhi,24.7
+1934,Goa,26.12
+1934,Gujarat,26.41
+1934,Haryana,24.64
+1934,Himachal Pradesh,9.63
+1934,Karnataka,25.26
+1934,Kerala,25.6
+1934,Lakshadweep,26.74
+1934,Maharashtra,25.98
+1934,Manipur,19.44
+1934,Meghalaya,21.52
+1934,Mizoram,21.29
+1934,Nagaland,19
+1934,Orissa,25.24
+1934,Punjab,24.28
+1934,Rajasthan,25.42
+1934,Sikkim,4.09
+1934,Tamil Nadu,26.66
+1934,Tripura,24.49
+1934,West Bengal,25.29
+1934,Arunachal Pradesh,18.52
+1934,Bihar,24.84
+1934,Chandigarh,23.26
+1934,Chhattisgarh,25.15
+1934,Dadra and Nagar Haveli,25.73
+1934,Daman and Diu,25.92
+1934,Jharkhand,24.42
+1934,Madhya Pradesh,24.92
+1934,Puducherry,27.51
+1934,Uttar Pradesh,24.97
+1934,Uttarakhand,13.52
+1935,India,24.05
+1935,Andaman and Nicobar,27.34
+1935,Andhra Pradesh,27.07
+1935,Assam,23.25
+1935,Delhi,24.51
+1935,Goa,26.24
+1935,Gujarat,26.31
+1935,Haryana,24.37
+1935,Himachal Pradesh,9.15
+1935,Karnataka,25.44
+1935,Kerala,25.75
+1935,Lakshadweep,26.87
+1935,Maharashtra,26.09
+1935,Manipur,19.65
+1935,Meghalaya,21.79
+1935,Mizoram,21.5
+1935,Nagaland,19.2
+1935,Orissa,25.49
+1935,Punjab,23.81
+1935,Rajasthan,25.23
+1935,Sikkim,4.43
+1935,Tamil Nadu,26.82
+1935,Tripura,24.72
+1935,West Bengal,25.59
+1935,Arunachal Pradesh,18.79
+1935,Bihar,25.06
+1935,Chandigarh,22.87
+1935,Chhattisgarh,25.34
+1935,Dadra and Nagar Haveli,25.75
+1935,Daman and Diu,25.85
+1935,Jharkhand,24.66
+1935,Madhya Pradesh,25
+1935,Puducherry,27.69
+1935,Uttar Pradesh,24.96
+1935,Uttarakhand,13.25
+1936,India,24.1
+1936,Andaman and Nicobar,27.34
+1936,Andhra Pradesh,27.14
+1936,Assam,23.06
+1936,Delhi,24.54
+1936,Goa,26.38
+1936,Gujarat,26.55
+1936,Haryana,24.46
+1936,Himachal Pradesh,9.32
+1936,Karnataka,25.57
+1936,Kerala,25.86
+1936,Lakshadweep,26.98
+1936,Maharashtra,26.21
+1936,Manipur,19.45
+1936,Meghalaya,21.6
+1936,Mizoram,21.3
+1936,Nagaland,18.98
+1936,Orissa,25.36
+1936,Punjab,24.04
+1936,Rajasthan,25.41
+1936,Sikkim,4.23
+1936,Tamil Nadu,26.93
+1936,Tripura,24.54
+1936,West Bengal,25.39
+1936,Arunachal Pradesh,18.5
+1936,Bihar,24.83
+1936,Chandigarh,22.99
+1936,Chhattisgarh,25.28
+1936,Dadra and Nagar Haveli,25.94
+1936,Daman and Diu,26.09
+1936,Jharkhand,24.47
+1936,Madhya Pradesh,25.03
+1936,Puducherry,27.81
+1936,Uttar Pradesh,24.82
+1936,Uttarakhand,13.29
+1937,India,23.98
+1937,Andaman and Nicobar,27.41
+1937,Andhra Pradesh,26.99
+1937,Assam,23.22
+1937,Delhi,24.47
+1937,Goa,26.25
+1937,Gujarat,26.33
+1937,Haryana,24.37
+1937,Himachal Pradesh,9.22
+1937,Karnataka,25.46
+1937,Kerala,25.89
+1937,Lakshadweep,27.08
+1937,Maharashtra,26.04
+1937,Manipur,19.62
+1937,Meghalaya,21.67
+1937,Mizoram,21.4
+1937,Nagaland,19.2
+1937,Orissa,25.16
+1937,Punjab,23.87
+1937,Rajasthan,25.26
+1937,Sikkim,4.28
+1937,Tamil Nadu,26.94
+1937,Tripura,24.59
+1937,West Bengal,25.3
+1937,Arunachal Pradesh,18.88
+1937,Bihar,24.77
+1937,Chandigarh,22.89
+1937,Chhattisgarh,25.1
+1937,Dadra and Nagar Haveli,25.75
+1937,Daman and Diu,25.87
+1937,Jharkhand,24.29
+1937,Madhya Pradesh,24.91
+1937,Puducherry,27.81
+1937,Uttar Pradesh,24.76
+1937,Uttarakhand,13.2
+1938,India,24.16
+1938,Andaman and Nicobar,27.14
+1938,Andhra Pradesh,26.95
+1938,Assam,23.2
+1938,Delhi,25.07
+1938,Goa,26.18
+1938,Gujarat,26.46
+1938,Haryana,24.91
+1938,Himachal Pradesh,9.56
+1938,Karnataka,25.37
+1938,Kerala,25.81
+1938,Lakshadweep,26.94
+1938,Maharashtra,26.04
+1938,Manipur,19.58
+1938,Meghalaya,21.73
+1938,Mizoram,21.4
+1938,Nagaland,19.13
+1938,Orissa,25.34
+1938,Punjab,24.28
+1938,Rajasthan,25.71
+1938,Sikkim,4.38
+1938,Tamil Nadu,26.87
+1938,Tripura,24.64
+1938,West Bengal,25.47
+1938,Arunachal Pradesh,18.63
+1938,Bihar,25.06
+1938,Chandigarh,23.3
+1938,Chhattisgarh,25.25
+1938,Dadra and Nagar Haveli,25.74
+1938,Daman and Diu,25.93
+1938,Jharkhand,24.57
+1938,Madhya Pradesh,25.17
+1938,Puducherry,27.72
+1938,Uttar Pradesh,25.24
+1938,Uttarakhand,13.62
+1939,India,24.2
+1939,Andaman and Nicobar,27.14
+1939,Andhra Pradesh,27.03
+1939,Assam,23.15
+1939,Delhi,24.91
+1939,Goa,26.27
+1939,Gujarat,26.62
+1939,Haryana,24.78
+1939,Himachal Pradesh,9.51
+1939,Karnataka,25.38
+1939,Kerala,25.66
+1939,Lakshadweep,26.84
+1939,Maharashtra,26.2
+1939,Manipur,19.54
+1939,Meghalaya,21.74
+1939,Mizoram,21.42
+1939,Nagaland,19.05
+1939,Orissa,25.52
+1939,Punjab,24.22
+1939,Rajasthan,25.64
+1939,Sikkim,4.36
+1939,Tamil Nadu,26.71
+1939,Tripura,24.67
+1939,West Bengal,25.59
+1939,Arunachal Pradesh,18.51
+1939,Bihar,25.11
+1939,Chandigarh,23.23
+1939,Chhattisgarh,25.4
+1939,Dadra and Nagar Haveli,25.92
+1939,Daman and Diu,26.13
+1939,Jharkhand,24.72
+1939,Madhya Pradesh,25.24
+1939,Puducherry,27.57
+1939,Uttar Pradesh,25.21
+1939,Uttarakhand,13.57
+1940,India,24.18
+1940,Andaman and Nicobar,27.05
+1940,Andhra Pradesh,26.96
+1940,Assam,22.99
+1940,Delhi,24.88
+1940,Goa,26.27
+1940,Gujarat,26.67
+1940,Haryana,24.8
+1940,Himachal Pradesh,9.59
+1940,Karnataka,25.41
+1940,Kerala,25.82
+1940,Lakshadweep,26.98
+1940,Maharashtra,26.16
+1940,Manipur,19.35
+1940,Meghalaya,21.59
+1940,Mizoram,21.21
+1940,Nagaland,18.88
+1940,Orissa,25.41
+1940,Punjab,24.32
+1940,Rajasthan,25.67
+1940,Sikkim,4.23
+1940,Tamil Nadu,26.88
+1940,Tripura,24.5
+1940,West Bengal,25.44
+1940,Arunachal Pradesh,18.39
+1940,Bihar,25.01
+1940,Chandigarh,23.28
+1940,Chhattisgarh,25.31
+1940,Dadra and Nagar Haveli,25.97
+1940,Daman and Diu,26.19
+1940,Jharkhand,24.61
+1940,Madhya Pradesh,25.17
+1940,Puducherry,27.74
+1940,Uttar Pradesh,25.17
+1940,Uttarakhand,13.58
+1941,India,24.91
+1941,Andaman and Nicobar,27.77
+1941,Andhra Pradesh,27.74
+1941,Assam,23.2
+1941,Delhi,25.94
+1941,Goa,27.08
+1941,Gujarat,27.28
+1941,Haryana,25.82
+1941,Himachal Pradesh,10.67
+1941,Karnataka,26.16
+1941,Kerala,26.2
+1941,Lakshadweep,27.34
+1941,Maharashtra,27.01
+1941,Manipur,19.63
+1941,Meghalaya,21.84
+1941,Mizoram,21.56
+1941,Nagaland,19.09
+1941,Orissa,26.03
+1941,Punjab,25.33
+1941,Rajasthan,26.5
+1941,Sikkim,4.56
+1941,Tamil Nadu,27.29
+1941,Tripura,24.79
+1941,West Bengal,25.81
+1941,Arunachal Pradesh,18.57
+1941,Bihar,25.55
+1941,Chandigarh,24.32
+1941,Chhattisgarh,26.06
+1941,Dadra and Nagar Haveli,26.65
+1941,Daman and Diu,26.8
+1941,Jharkhand,25.09
+1941,Madhya Pradesh,26.05
+1941,Puducherry,28.22
+1941,Uttar Pradesh,26.13
+1941,Uttarakhand,14.63
+1942,India,24.44
+1942,Andaman and Nicobar,26.92
+1942,Andhra Pradesh,27.32
+1942,Assam,23.38
+1942,Delhi,25.15
+1942,Goa,26.57
+1942,Gujarat,26.71
+1942,Haryana,25
+1942,Himachal Pradesh,9.84
+1942,Karnataka,25.69
+1942,Kerala,25.89
+1942,Lakshadweep,26.96
+1942,Maharashtra,26.42
+1942,Manipur,19.81
+1942,Meghalaya,21.94
+1942,Mizoram,21.65
+1942,Nagaland,19.32
+1942,Orissa,25.77
+1942,Punjab,24.48
+1942,Rajasthan,25.75
+1942,Sikkim,4.64
+1942,Tamil Nadu,27.03
+1942,Tripura,24.86
+1942,West Bengal,25.8
+1942,Arunachal Pradesh,18.88
+1942,Bihar,25.42
+1942,Chandigarh,23.5
+1942,Chhattisgarh,25.67
+1942,Dadra and Nagar Haveli,26.06
+1942,Daman and Diu,26.26
+1942,Jharkhand,24.95
+1942,Madhya Pradesh,25.47
+1942,Puducherry,27.96
+1942,Uttar Pradesh,25.55
+1942,Uttarakhand,13.9
+1943,India,24.14
+1943,Andaman and Nicobar,26.57
+1943,Andhra Pradesh,26.74
+1943,Assam,23.05
+1943,Delhi,25.15
+1943,Goa,26.07
+1943,Gujarat,26.6
+1943,Haryana,24.97
+1943,Himachal Pradesh,9.79
+1943,Karnataka,25.13
+1943,Kerala,25.39
+1943,Lakshadweep,26.56
+1943,Maharashtra,25.96
+1943,Manipur,19.46
+1943,Meghalaya,21.62
+1943,Mizoram,21.31
+1943,Nagaland,18.95
+1943,Orissa,25.39
+1943,Punjab,24.45
+1943,Rajasthan,25.68
+1943,Sikkim,4.39
+1943,Tamil Nadu,26.52
+1943,Tripura,24.53
+1943,West Bengal,25.5
+1943,Arunachal Pradesh,18.49
+1943,Bihar,25.22
+1943,Chandigarh,23.44
+1943,Chhattisgarh,25.28
+1943,Dadra and Nagar Haveli,25.84
+1943,Daman and Diu,26.13
+1943,Jharkhand,24.66
+1943,Madhya Pradesh,25.16
+1943,Puducherry,27.44
+1943,Uttar Pradesh,25.41
+1943,Uttarakhand,13.85
+1944,India,24.15
+1944,Andaman and Nicobar,26.73
+1944,Andhra Pradesh,26.95
+1944,Assam,23.26
+1944,Delhi,24.8
+1944,Goa,26.35
+1944,Gujarat,26.57
+1944,Haryana,24.64
+1944,Himachal Pradesh,9.5
+1944,Karnataka,25.46
+1944,Kerala,25.7
+1944,Lakshadweep,26.87
+1944,Maharashtra,26.16
+1944,Manipur,19.64
+1944,Meghalaya,21.85
+1944,Mizoram,21.53
+1944,Nagaland,19.16
+1944,Orissa,25.4
+1944,Punjab,24.12
+1944,Rajasthan,25.43
+1944,Sikkim,4.56
+1944,Tamil Nadu,26.81
+1944,Tripura,24.75
+1944,West Bengal,25.61
+1944,Arunachal Pradesh,18.62
+1944,Bihar,25.21
+1944,Chandigarh,23.18
+1944,Chhattisgarh,25.27
+1944,Dadra and Nagar Haveli,25.96
+1944,Daman and Diu,26.18
+1944,Jharkhand,24.64
+1944,Madhya Pradesh,25.1
+1944,Puducherry,27.71
+1944,Uttar Pradesh,25.2
+1944,Uttarakhand,13.56
+1945,India,23.92
+1945,Andaman and Nicobar,26.74
+1945,Andhra Pradesh,26.86
+1945,Assam,23.08
+1945,Delhi,24.43
+1945,Goa,26.15
+1945,Gujarat,26.1
+1945,Haryana,24.34
+1945,Himachal Pradesh,9.28
+1945,Karnataka,25.34
+1945,Kerala,25.76
+1945,Lakshadweep,26.97
+1945,Maharashtra,25.86
+1945,Manipur,19.49
+1945,Meghalaya,21.63
+1945,Mizoram,21.34
+1945,Nagaland,19.01
+1945,Orissa,25.22
+1945,Punjab,23.88
+1945,Rajasthan,25.07
+1945,Sikkim,4.27
+1945,Tamil Nadu,26.86
+1945,Tripura,24.55
+1945,West Bengal,25.38
+1945,Arunachal Pradesh,18.6
+1945,Bihar,24.94
+1945,Chandigarh,22.93
+1945,Chhattisgarh,25.09
+1945,Dadra and Nagar Haveli,25.54
+1945,Daman and Diu,25.68
+1945,Jharkhand,24.42
+1945,Madhya Pradesh,24.83
+1945,Puducherry,27.76
+1945,Uttar Pradesh,24.9
+1945,Uttarakhand,13.28
+1946,India,24.41
+1946,Andaman and Nicobar,27.84
+1946,Andhra Pradesh,27.09
+1946,Assam,23.42
+1946,Delhi,25.37
+1946,Goa,26.4
+1946,Gujarat,26.65
+1946,Haryana,25.32
+1946,Himachal Pradesh,10.33
+1946,Karnataka,25.5
+1946,Kerala,25.68
+1946,Lakshadweep,26.79
+1946,Maharashtra,26.33
+1946,Manipur,19.81
+1946,Meghalaya,21.87
+1946,Mizoram,21.58
+1946,Nagaland,19.43
+1946,Orissa,25.51
+1946,Punjab,24.98
+1946,Rajasthan,25.9
+1946,Sikkim,4.53
+1946,Tamil Nadu,26.82
+1946,Tripura,24.76
+1946,West Bengal,25.61
+1946,Arunachal Pradesh,19.14
+1946,Bihar,25.26
+1946,Chandigarh,23.98
+1946,Chhattisgarh,25.49
+1946,Dadra and Nagar Haveli,26.04
+1946,Daman and Diu,26.16
+1946,Jharkhand,24.72
+1946,Madhya Pradesh,25.43
+1946,Puducherry,27.75
+1946,Uttar Pradesh,25.55
+1946,Uttarakhand,14.23
+1947,India,24.5
+1947,Andaman and Nicobar,27.68
+1947,Andhra Pradesh,27.21
+1947,Assam,23.35
+1947,Delhi,25.49
+1947,Goa,26.46
+1947,Gujarat,26.74
+1947,Haryana,25.38
+1947,Himachal Pradesh,10.19
+1947,Karnataka,25.57
+1947,Kerala,25.71
+1947,Lakshadweep,26.85
+1947,Maharashtra,26.38
+1947,Manipur,19.76
+1947,Meghalaya,21.94
+1947,Mizoram,21.63
+1947,Nagaland,19.24
+1947,Orissa,25.74
+1947,Punjab,24.91
+1947,Rajasthan,26.04
+1947,Sikkim,4.7
+1947,Tamil Nadu,26.83
+1947,Tripura,24.85
+1947,West Bengal,25.79
+1947,Arunachal Pradesh,18.7
+1947,Bihar,25.47
+1947,Chandigarh,23.91
+1947,Chhattisgarh,25.66
+1947,Dadra and Nagar Haveli,26.05
+1947,Daman and Diu,26.25
+1947,Jharkhand,24.95
+1947,Madhya Pradesh,25.51
+1947,Puducherry,27.77
+1947,Uttar Pradesh,25.72
+1947,Uttarakhand,14.17
+1948,India,24.4
+1948,Andaman and Nicobar,27.61
+1948,Andhra Pradesh,27.37
+1948,Assam,22.85
+1948,Delhi,25.12
+1948,Goa,26.63
+1948,Gujarat,26.91
+1948,Haryana,24.97
+1948,Himachal Pradesh,9.59
+1948,Karnataka,25.74
+1948,Kerala,25.92
+1948,Lakshadweep,27.05
+1948,Maharashtra,26.54
+1948,Manipur,19.2
+1948,Meghalaya,21.47
+1948,Mizoram,21.09
+1948,Nagaland,18.71
+1948,Orissa,25.69
+1948,Punjab,24.3
+1948,Rajasthan,25.87
+1948,Sikkim,4.25
+1948,Tamil Nadu,27.05
+1948,Tripura,24.34
+1948,West Bengal,25.45
+1948,Arunachal Pradesh,18.23
+1948,Bihar,25.15
+1948,Chandigarh,23.36
+1948,Chhattisgarh,25.66
+1948,Dadra and Nagar Haveli,26.29
+1948,Daman and Diu,26.46
+1948,Jharkhand,24.74
+1948,Madhya Pradesh,25.53
+1948,Puducherry,27.98
+1948,Uttar Pradesh,25.47
+1948,Uttarakhand,13.75
+1949,India,24.23
+1949,Andaman and Nicobar,27.38
+1949,Andhra Pradesh,26.91
+1949,Assam,22.52
+1949,Delhi,25.33
+1949,Goa,26.26
+1949,Gujarat,26.88
+1949,Haryana,25.12
+1949,Himachal Pradesh,9.85
+1949,Karnataka,25.34
+1949,Kerala,25.57
+1949,Lakshadweep,26.74
+1949,Maharashtra,26.31
+1949,Manipur,18.94
+1949,Meghalaya,21.09
+1949,Mizoram,20.8
+1949,Nagaland,18.43
+1949,Orissa,25.26
+1949,Punjab,24.48
+1949,Rajasthan,25.89
+1949,Sikkim,3.79
+1949,Tamil Nadu,26.68
+1949,Tripura,24.03
+1949,West Bengal,25.05
+1949,Arunachal Pradesh,18.08
+1949,Bihar,24.86
+1949,Chandigarh,23.57
+1949,Chhattisgarh,25.37
+1949,Dadra and Nagar Haveli,26.21
+1949,Daman and Diu,26.37
+1949,Jharkhand,24.42
+1949,Madhya Pradesh,25.49
+1949,Puducherry,27.6
+1949,Uttar Pradesh,25.52
+1949,Uttarakhand,14.01
+1950,India,23.89
+1950,Andaman and Nicobar,27.43
+1950,Andhra Pradesh,26.89
+1950,Assam,22.82
+1950,Delhi,24.33
+1950,Goa,26.15
+1950,Gujarat,26.15
+1950,Haryana,24.11
+1950,Himachal Pradesh,8.95
+1950,Karnataka,25.3
+1950,Kerala,25.59
+1950,Lakshadweep,26.72
+1950,Maharashtra,26.04
+1950,Manipur,19.24
+1950,Meghalaya,21.43
+1950,Mizoram,21.14
+1950,Nagaland,18.72
+1950,Orissa,25.26
+1950,Punjab,23.49
+1950,Rajasthan,24.91
+1950,Sikkim,4.11
+1950,Tamil Nadu,26.71
+1950,Tripura,24.35
+1950,West Bengal,25.38
+1950,Arunachal Pradesh,18.22
+1950,Bihar,24.91
+1950,Chandigarh,22.63
+1950,Chhattisgarh,25.21
+1950,Dadra and Nagar Haveli,25.72
+1950,Daman and Diu,25.75
+1950,Jharkhand,24.48
+1950,Madhya Pradesh,24.98
+1950,Puducherry,27.63
+1950,Uttar Pradesh,24.92
+1950,Uttarakhand,13.15
+1951,India,24.4
+1951,Andaman and Nicobar,26.83
+1951,Andhra Pradesh,27.24
+1951,Assam,22.95
+1951,Delhi,25.2
+1951,Goa,26.45
+1951,Gujarat,26.81
+1951,Haryana,25
+1951,Himachal Pradesh,9.73
+1951,Karnataka,25.57
+1951,Kerala,25.73
+1951,Lakshadweep,26.85
+1951,Maharashtra,26.48
+1951,Manipur,19.4
+1951,Meghalaya,21.62
+1951,Mizoram,21.31
+1951,Nagaland,18.82
+1951,Orissa,25.75
+1951,Punjab,24.41
+1951,Rajasthan,25.84
+1951,Sikkim,4.37
+1951,Tamil Nadu,26.83
+1951,Tripura,24.57
+1951,West Bengal,25.68
+1951,Arunachal Pradesh,18.2
+1951,Bihar,25.29
+1951,Chandigarh,23.44
+1951,Chhattisgarh,25.68
+1951,Dadra and Nagar Haveli,26.23
+1951,Daman and Diu,26.33
+1951,Jharkhand,24.91
+1951,Madhya Pradesh,25.51
+1951,Puducherry,27.75
+1951,Uttar Pradesh,25.56
+1951,Uttarakhand,13.87
+1952,India,24.56
+1952,Andaman and Nicobar,26.88
+1952,Andhra Pradesh,27.48
+1952,Assam,23.13
+1952,Delhi,25.35
+1952,Goa,26.58
+1952,Gujarat,26.8
+1952,Haryana,25.18
+1952,Himachal Pradesh,9.98
+1952,Karnataka,25.77
+1952,Kerala,25.91
+1952,Lakshadweep,27.03
+1952,Maharashtra,26.66
+1952,Manipur,19.54
+1952,Meghalaya,21.63
+1952,Mizoram,21.3
+1952,Nagaland,19.06
+1952,Orissa,25.8
+1952,Punjab,24.65
+1952,Rajasthan,26
+1952,Sikkim,4.33
+1952,Tamil Nadu,27.03
+1952,Tripura,24.49
+1952,West Bengal,25.55
+1952,Arunachal Pradesh,18.52
+1952,Bihar,25.28
+1952,Chandigarh,23.64
+1952,Chhattisgarh,25.89
+1952,Dadra and Nagar Haveli,26.33
+1952,Daman and Diu,26.28
+1952,Jharkhand,24.86
+1952,Madhya Pradesh,25.77
+1952,Puducherry,27.97
+1952,Uttar Pradesh,25.75
+1952,Uttarakhand,14.09
+1953,India,24.77
+1953,Andaman and Nicobar,26.84
+1953,Andhra Pradesh,27.62
+1953,Assam,23.14
+1953,Delhi,25.77
+1953,Goa,26.66
+1953,Gujarat,27.08
+1953,Haryana,25.6
+1953,Himachal Pradesh,10.41
+1953,Karnataka,25.83
+1953,Kerala,25.94
+1953,Lakshadweep,27.07
+1953,Maharashtra,26.81
+1953,Manipur,19.5
+1953,Meghalaya,21.66
+1953,Mizoram,21.36
+1953,Nagaland,19.06
+1953,Orissa,26.07
+1953,Punjab,25.12
+1953,Rajasthan,26.3
+1953,Sikkim,4.49
+1953,Tamil Nadu,27.07
+1953,Tripura,24.6
+1953,West Bengal,25.78
+1953,Arunachal Pradesh,18.51
+1953,Bihar,25.49
+1953,Chandigarh,24.12
+1953,Chhattisgarh,26.11
+1953,Dadra and Nagar Haveli,26.45
+1953,Daman and Diu,26.58
+1953,Jharkhand,25.15
+1953,Madhya Pradesh,25.94
+1953,Puducherry,28.01
+1953,Uttar Pradesh,26.02
+1953,Uttarakhand,14.48
+1954,India,24.34
+1954,Andaman and Nicobar,26.8
+1954,Andhra Pradesh,27.18
+1954,Assam,22.97
+1954,Delhi,25.23
+1954,Goa,26.26
+1954,Gujarat,26.7
+1954,Haryana,25.07
+1954,Himachal Pradesh,9.73
+1954,Karnataka,25.41
+1954,Kerala,25.59
+1954,Lakshadweep,26.73
+1954,Maharashtra,26.31
+1954,Manipur,19.25
+1954,Meghalaya,21.5
+1954,Mizoram,21.25
+1954,Nagaland,18.77
+1954,Orissa,25.73
+1954,Punjab,24.51
+1954,Rajasthan,25.87
+1954,Sikkim,4.35
+1954,Tamil Nadu,26.7
+1954,Tripura,24.49
+1954,West Bengal,25.55
+1954,Arunachal Pradesh,18.38
+1954,Bihar,25.21
+1954,Chandigarh,23.48
+1954,Chhattisgarh,25.67
+1954,Dadra and Nagar Haveli,26
+1954,Daman and Diu,26.17
+1954,Jharkhand,24.86
+1954,Madhya Pradesh,25.46
+1954,Puducherry,27.63
+1954,Uttar Pradesh,25.53
+1954,Uttarakhand,13.9
+1955,India,24.14
+1955,Andaman and Nicobar,26.46
+1955,Andhra Pradesh,26.93
+1955,Assam,22.89
+1955,Delhi,24.77
+1955,Goa,26.22
+1955,Gujarat,26.68
+1955,Haryana,24.61
+1955,Himachal Pradesh,9.53
+1955,Karnataka,25.26
+1955,Kerala,25.4
+1955,Lakshadweep,26.59
+1955,Maharashtra,26.23
+1955,Manipur,19.26
+1955,Meghalaya,21.48
+1955,Mizoram,21.12
+1955,Nagaland,18.75
+1955,Orissa,25.56
+1955,Punjab,24.21
+1955,Rajasthan,25.53
+1955,Sikkim,4.23
+1955,Tamil Nadu,26.48
+1955,Tripura,24.35
+1955,West Bengal,25.5
+1955,Arunachal Pradesh,18.16
+1955,Bihar,25.11
+1955,Chandigarh,23.1
+1955,Chhattisgarh,25.44
+1955,Dadra and Nagar Haveli,26.08
+1955,Daman and Diu,26.25
+1955,Jharkhand,24.75
+1955,Madhya Pradesh,25.14
+1955,Puducherry,27.4
+1955,Uttar Pradesh,25.18
+1955,Uttarakhand,13.53
+1956,India,24.09
+1956,Andaman and Nicobar,26.34
+1956,Andhra Pradesh,26.93
+1956,Assam,23
+1956,Delhi,24.86
+1956,Goa,26.09
+1956,Gujarat,26.32
+1956,Haryana,24.7
+1956,Himachal Pradesh,9.7
+1956,Karnataka,25.2
+1956,Kerala,25.39
+1956,Lakshadweep,26.52
+1956,Maharashtra,26.08
+1956,Manipur,19.41
+1956,Meghalaya,21.58
+1956,Mizoram,21.23
+1956,Nagaland,18.87
+1956,Orissa,25.45
+1956,Punjab,24.28
+1956,Rajasthan,25.36
+1956,Sikkim,4.46
+1956,Tamil Nadu,26.49
+1956,Tripura,24.42
+1956,West Bengal,25.39
+1956,Arunachal Pradesh,18.2
+1956,Bihar,25.13
+1956,Chandigarh,23.29
+1956,Chhattisgarh,25.37
+1956,Dadra and Nagar Haveli,25.82
+1956,Daman and Diu,25.87
+1956,Jharkhand,24.66
+1956,Madhya Pradesh,25.07
+1956,Puducherry,27.39
+1956,Uttar Pradesh,25.26
+1956,Uttarakhand,13.72
+1957,India,24.15
+1957,Andaman and Nicobar,27.06
+1957,Andhra Pradesh,27.26
+1957,Assam,22.93
+1957,Delhi,24.32
+1957,Goa,26.44
+1957,Gujarat,26.45
+1957,Haryana,24.13
+1957,Himachal Pradesh,8.95
+1957,Karnataka,25.56
+1957,Kerala,25.71
+1957,Lakshadweep,26.89
+1957,Maharashtra,26.44
+1957,Manipur,19.39
+1957,Meghalaya,21.6
+1957,Mizoram,21.29
+1957,Nagaland,18.79
+1957,Orissa,25.85
+1957,Punjab,23.58
+1957,Rajasthan,25.09
+1957,Sikkim,4.44
+1957,Tamil Nadu,26.79
+1957,Tripura,24.52
+1957,West Bengal,25.72
+1957,Arunachal Pradesh,18.07
+1957,Bihar,25.34
+1957,Chandigarh,22.63
+1957,Chhattisgarh,25.69
+1957,Dadra and Nagar Haveli,26.15
+1957,Daman and Diu,26.12
+1957,Jharkhand,25.02
+1957,Madhya Pradesh,25.21
+1957,Puducherry,27.7
+1957,Uttar Pradesh,25.13
+1957,Uttarakhand,13.19
+1958,India,24.84
+1958,Andaman and Nicobar,27.11
+1958,Andhra Pradesh,27.68
+1958,Assam,23.52
+1958,Delhi,25.43
+1958,Goa,26.84
+1958,Gujarat,27.17
+1958,Haryana,25.3
+1958,Himachal Pradesh,10.17
+1958,Karnataka,25.92
+1958,Kerala,26.02
+1958,Lakshadweep,27.14
+1958,Maharashtra,26.89
+1958,Manipur,19.93
+1958,Meghalaya,22.2
+1958,Mizoram,21.82
+1958,Nagaland,19.3
+1958,Orissa,26.38
+1958,Punjab,24.92
+1958,Rajasthan,26.19
+1958,Sikkim,5.04
+1958,Tamil Nadu,27.12
+1958,Tripura,25.06
+1958,West Bengal,26.36
+1958,Arunachal Pradesh,18.72
+1958,Bihar,25.98
+1958,Chandigarh,23.87
+1958,Chhattisgarh,26.24
+1958,Dadra and Nagar Haveli,26.65
+1958,Daman and Diu,26.76
+1958,Jharkhand,25.64
+1958,Madhya Pradesh,25.89
+1958,Puducherry,28.06
+1958,Uttar Pradesh,25.97
+1958,Uttarakhand,14.26
+1959,India,24.39
+1959,Andaman and Nicobar,27.11
+1959,Andhra Pradesh,27.37
+1959,Assam,22.94
+1959,Delhi,25
+1959,Goa,26.67
+1959,Gujarat,26.7
+1959,Haryana,24.87
+1959,Himachal Pradesh,9.78
+1959,Karnataka,25.75
+1959,Kerala,25.95
+1959,Lakshadweep,27.08
+1959,Maharashtra,26.57
+1959,Manipur,19.32
+1959,Meghalaya,21.5
+1959,Mizoram,21.14
+1959,Nagaland,18.78
+1959,Orissa,25.71
+1959,Punjab,24.43
+1959,Rajasthan,25.64
+1959,Sikkim,4.39
+1959,Tamil Nadu,27.03
+1959,Tripura,24.33
+1959,West Bengal,25.5
+1959,Arunachal Pradesh,18.18
+1959,Bihar,25.22
+1959,Chandigarh,23.48
+1959,Chhattisgarh,25.74
+1959,Dadra and Nagar Haveli,26.27
+1959,Daman and Diu,26.36
+1959,Jharkhand,24.84
+1959,Madhya Pradesh,25.45
+1959,Puducherry,27.93
+1959,Uttar Pradesh,25.52
+1959,Uttarakhand,13.85
+1960,India,24.38
+1960,Andaman and Nicobar,27.1
+1960,Andhra Pradesh,27.31
+1960,Assam,23.4
+1960,Delhi,25.02
+1960,Goa,26.57
+1960,Gujarat,26.65
+1960,Haryana,24.84
+1960,Himachal Pradesh,9.78
+1960,Karnataka,25.64
+1960,Kerala,25.69
+1960,Lakshadweep,26.74
+1960,Maharashtra,26.48
+1960,Manipur,19.84
+1960,Meghalaya,21.99
+1960,Mizoram,21.61
+1960,Nagaland,19.3
+1960,Orissa,25.8
+1960,Punjab,24.41
+1960,Rajasthan,25.57
+1960,Sikkim,4.46
+1960,Tamil Nadu,26.81
+1960,Tripura,24.83
+1960,West Bengal,25.76
+1960,Arunachal Pradesh,18.67
+1960,Bihar,25.24
+1960,Chandigarh,23.41
+1960,Chhattisgarh,25.69
+1960,Dadra and Nagar Haveli,26.19
+1960,Daman and Diu,26.32
+1960,Jharkhand,24.96
+1960,Madhya Pradesh,25.34
+1960,Puducherry,27.74
+1960,Uttar Pradesh,25.45
+1960,Uttarakhand,13.83
+1961,India,24.02
+1961,Andaman and Nicobar,26.82
+1961,Andhra Pradesh,27.07
+1961,Assam,23.1
+1961,Delhi,24.5
+1961,Goa,26.31
+1961,Gujarat,26.29
+1961,Haryana,24.27
+1961,Himachal Pradesh,9.5
+1961,Karnataka,25.45
+1961,Kerala,25.73
+1961,Lakshadweep,26.88
+1961,Maharashtra,26.16
+1961,Manipur,19.44
+1961,Meghalaya,21.62
+1961,Mizoram,21.27
+1961,Nagaland,18.99
+1961,Orissa,25.44
+1961,Punjab,23.94
+1961,Rajasthan,25.04
+1961,Sikkim,4.19
+1961,Tamil Nadu,26.81
+1961,Tripura,24.47
+1961,West Bengal,25.38
+1961,Arunachal Pradesh,18.46
+1961,Bihar,24.92
+1961,Chandigarh,23.1
+1961,Chhattisgarh,25.3
+1961,Dadra and Nagar Haveli,25.9
+1961,Daman and Diu,25.98
+1961,Jharkhand,24.57
+1961,Madhya Pradesh,24.88
+1961,Puducherry,27.67
+1961,Uttar Pradesh,24.93
+1961,Uttarakhand,13.52
+1962,India,24.09
+1962,Andaman and Nicobar,26.84
+1962,Andhra Pradesh,26.86
+1962,Assam,22.9
+1962,Delhi,24.9
+1962,Goa,26.21
+1962,Gujarat,26.51
+1962,Haryana,24.68
+1962,Himachal Pradesh,9.75
+1962,Karnataka,25.32
+1962,Kerala,25.67
+1962,Lakshadweep,26.88
+1962,Maharashtra,26.14
+1962,Manipur,19.37
+1962,Meghalaya,21.58
+1962,Mizoram,21.26
+1962,Nagaland,18.79
+1962,Orissa,25.36
+1962,Punjab,24.26
+1962,Rajasthan,25.41
+1962,Sikkim,3.86
+1962,Tamil Nadu,26.72
+1962,Tripura,24.46
+1962,West Bengal,25.39
+1962,Arunachal Pradesh,18.13
+1962,Bihar,24.82
+1962,Chandigarh,23.41
+1962,Chhattisgarh,25.22
+1962,Dadra and Nagar Haveli,26
+1962,Daman and Diu,26.11
+1962,Jharkhand,24.6
+1962,Madhya Pradesh,25.07
+1962,Puducherry,27.57
+1962,Uttar Pradesh,25.2
+1962,Uttarakhand,13.85
+1963,India,24.24
+1963,Andaman and Nicobar,26.85
+1963,Andhra Pradesh,27.01
+1963,Assam,22.77
+1963,Delhi,25.14
+1963,Goa,26.37
+1963,Gujarat,26.93
+1963,Haryana,24.95
+1963,Himachal Pradesh,9.85
+1963,Karnataka,25.44
+1963,Kerala,25.8
+1963,Lakshadweep,26.98
+1963,Maharashtra,26.26
+1963,Manipur,19.33
+1963,Meghalaya,21.55
+1963,Mizoram,21.28
+1963,Nagaland,18.71
+1963,Orissa,25.53
+1963,Punjab,24.48
+1963,Rajasthan,25.83
+1963,Sikkim,3.74
+1963,Tamil Nadu,26.84
+1963,Tripura,24.54
+1963,West Bengal,25.5
+1963,Arunachal Pradesh,17.94
+1963,Bihar,24.87
+1963,Chandigarh,23.51
+1963,Chhattisgarh,25.29
+1963,Dadra and Nagar Haveli,26.32
+1963,Daman and Diu,26.47
+1963,Jharkhand,24.73
+1963,Madhya Pradesh,25.16
+1963,Puducherry,27.71
+1963,Uttar Pradesh,25.2
+1963,Uttarakhand,13.92
+1964,India,24.25
+1964,Andaman and Nicobar,26.82
+1964,Andhra Pradesh,27.32
+1964,Assam,22.93
+1964,Delhi,24.68
+1964,Goa,26.2
+1964,Gujarat,26.34
+1964,Haryana,24.41
+1964,Himachal Pradesh,9.52
+1964,Karnataka,25.46
+1964,Kerala,25.93
+1964,Lakshadweep,27.02
+1964,Maharashtra,26.31
+1964,Manipur,19.26
+1964,Meghalaya,21.63
+1964,Mizoram,21.38
+1964,Nagaland,18.75
+1964,Orissa,25.89
+1964,Punjab,23.89
+1964,Rajasthan,25.26
+1964,Sikkim,4.38
+1964,Tamil Nadu,27.08
+1964,Tripura,24.65
+1964,West Bengal,25.76
+1964,Arunachal Pradesh,18.27
+1964,Bihar,25.23
+1964,Chandigarh,23.14
+1964,Chhattisgarh,25.78
+1964,Dadra and Nagar Haveli,25.86
+1964,Daman and Diu,25.87
+1964,Jharkhand,25
+1964,Madhya Pradesh,25.36
+1964,Puducherry,27.94
+1964,Uttar Pradesh,25.33
+1964,Uttarakhand,13.69
+1965,India,24.33
+1965,Andaman and Nicobar,26.77
+1965,Andhra Pradesh,27.39
+1965,Assam,22.48
+1965,Delhi,24.88
+1965,Goa,26.49
+1965,Gujarat,26.78
+1965,Haryana,24.66
+1965,Himachal Pradesh,9.54
+1965,Karnataka,25.63
+1965,Kerala,25.92
+1965,Lakshadweep,27.07
+1965,Maharashtra,26.57
+1965,Manipur,19.07
+1965,Meghalaya,21.31
+1965,Mizoram,21.13
+1965,Nagaland,18.38
+1965,Orissa,25.87
+1965,Punjab,24.06
+1965,Rajasthan,25.57
+1965,Sikkim,3.63
+1965,Tamil Nadu,27
+1965,Tripura,24.38
+1965,West Bengal,25.43
+1965,Arunachal Pradesh,17.61
+1965,Bihar,24.85
+1965,Chandigarh,23.26
+1965,Chhattisgarh,25.84
+1965,Dadra and Nagar Haveli,26.3
+1965,Daman and Diu,26.36
+1965,Jharkhand,24.78
+1965,Madhya Pradesh,25.54
+1965,Puducherry,27.89
+1965,Uttar Pradesh,25.34
+1965,Uttarakhand,13.75
+1966,India,24.58
+1966,Andaman and Nicobar,27.11
+1966,Andhra Pradesh,27.64
+1966,Assam,23.1
+1966,Delhi,25.02
+1966,Goa,26.7
+1966,Gujarat,26.93
+1966,Haryana,24.8
+1966,Himachal Pradesh,9.6
+1966,Karnataka,25.84
+1966,Kerala,26.14
+1966,Lakshadweep,27.28
+1966,Maharashtra,26.82
+1966,Manipur,19.59
+1966,Meghalaya,21.76
+1966,Mizoram,21.53
+1966,Nagaland,18.99
+1966,Orissa,26.13
+1966,Punjab,24.14
+1966,Rajasthan,25.66
+1966,Sikkim,4.23
+1966,Tamil Nadu,27.23
+1966,Tripura,24.77
+1966,West Bengal,25.81
+1966,Arunachal Pradesh,18.35
+1966,Bihar,25.35
+1966,Chandigarh,23.36
+1966,Chhattisgarh,26.15
+1966,Dadra and Nagar Haveli,26.5
+1966,Daman and Diu,26.57
+1966,Jharkhand,25.14
+1966,Madhya Pradesh,25.83
+1966,Puducherry,28.11
+1966,Uttar Pradesh,25.71
+1966,Uttarakhand,13.84
+1967,India,24.18
+1967,Andaman and Nicobar,26.79
+1967,Andhra Pradesh,27.27
+1967,Assam,22.59
+1967,Delhi,24.6
+1967,Goa,26.42
+1967,Gujarat,26.52
+1967,Haryana,24.42
+1967,Himachal Pradesh,9.34
+1967,Karnataka,25.52
+1967,Kerala,25.73
+1967,Lakshadweep,26.91
+1967,Maharashtra,26.53
+1967,Manipur,19.14
+1967,Meghalaya,21.23
+1967,Mizoram,21.06
+1967,Nagaland,18.53
+1967,Orissa,25.75
+1967,Punjab,23.93
+1967,Rajasthan,25.23
+1967,Sikkim,3.74
+1967,Tamil Nadu,26.77
+1967,Tripura,24.28
+1967,West Bengal,25.32
+1967,Arunachal Pradesh,17.77
+1967,Bihar,24.82
+1967,Chandigarh,23.08
+1967,Chhattisgarh,25.77
+1967,Dadra and Nagar Haveli,26.23
+1967,Daman and Diu,26.17
+1967,Jharkhand,24.64
+1967,Madhya Pradesh,25.37
+1967,Puducherry,27.66
+1967,Uttar Pradesh,25.17
+1967,Uttarakhand,13.45
+1968,India,24.07
+1968,Andaman and Nicobar,26.97
+1968,Andhra Pradesh,27.16
+1968,Assam,22.54
+1968,Delhi,24.62
+1968,Goa,26.29
+1968,Gujarat,26.48
+1968,Haryana,24.46
+1968,Himachal Pradesh,9.16
+1968,Karnataka,25.42
+1968,Kerala,25.73
+1968,Lakshadweep,26.74
+1968,Maharashtra,26.16
+1968,Manipur,19.07
+1968,Meghalaya,21.24
+1968,Mizoram,21.05
+1968,Nagaland,18.45
+1968,Orissa,25.61
+1968,Punjab,23.84
+1968,Rajasthan,25.36
+1968,Sikkim,3.68
+1968,Tamil Nadu,26.87
+1968,Tripura,24.32
+1968,West Bengal,25.36
+1968,Arunachal Pradesh,17.72
+1968,Bihar,24.77
+1968,Chandigarh,22.88
+1968,Chhattisgarh,25.46
+1968,Dadra and Nagar Haveli,25.95
+1968,Daman and Diu,26.04
+1968,Jharkhand,24.62
+1968,Madhya Pradesh,25.06
+1968,Puducherry,27.76
+1968,Uttar Pradesh,25.03
+1968,Uttarakhand,13.34
+1969,India,24.65
+1969,Andaman and Nicobar,27.06
+1969,Andhra Pradesh,27.52
+1969,Assam,23.08
+1969,Delhi,25.42
+1969,Goa,26.78
+1969,Gujarat,27.19
+1969,Haryana,25.25
+1969,Himachal Pradesh,9.99
+1969,Karnataka,25.84
+1969,Kerala,26.04
+1969,Lakshadweep,27.15
+1969,Maharashtra,26.83
+1969,Manipur,19.49
+1969,Meghalaya,21.67
+1969,Mizoram,21.38
+1969,Nagaland,19.01
+1969,Orissa,25.95
+1969,Punjab,24.67
+1969,Rajasthan,26.17
+1969,Sikkim,4.36
+1969,Tamil Nadu,27.1
+1969,Tripura,24.64
+1969,West Bengal,25.67
+1969,Arunachal Pradesh,18.39
+1969,Bihar,25.33
+1969,Chandigarh,23.72
+1969,Chhattisgarh,25.92
+1969,Dadra and Nagar Haveli,26.61
+1969,Daman and Diu,26.66
+1969,Jharkhand,25.06
+1969,Madhya Pradesh,25.81
+1969,Puducherry,27.97
+1969,Uttar Pradesh,25.71
+1969,Uttarakhand,14.16
+1970,India,24.27
+1970,Andaman and Nicobar,26.88
+1970,Andhra Pradesh,27.07
+1970,Assam,22.87
+1970,Delhi,25.13
+1970,Goa,26.21
+1970,Gujarat,26.59
+1970,Haryana,24.95
+1970,Himachal Pradesh,10.03
+1970,Karnataka,25.37
+1970,Kerala,25.73
+1970,Lakshadweep,26.8
+1970,Maharashtra,26.23
+1970,Manipur,19.27
+1970,Meghalaya,21.55
+1970,Mizoram,21.22
+1970,Nagaland,18.74
+1970,Orissa,25.57
+1970,Punjab,24.6
+1970,Rajasthan,25.69
+1970,Sikkim,4.4
+1970,Tamil Nadu,26.85
+1970,Tripura,24.5
+1970,West Bengal,25.56
+1970,Arunachal Pradesh,18.08
+1970,Bihar,25.15
+1970,Chandigarh,23.66
+1970,Chhattisgarh,25.45
+1970,Dadra and Nagar Haveli,25.97
+1970,Daman and Diu,26.1
+1970,Jharkhand,24.78
+1970,Madhya Pradesh,25.26
+1970,Puducherry,27.72
+1970,Uttar Pradesh,25.41
+1970,Uttarakhand,13.99
+1971,India,23.81
+1971,Andaman and Nicobar,26.41
+1971,Andhra Pradesh,26.76
+1971,Assam,22.55
+1971,Delhi,24.69
+1971,Goa,26.07
+1971,Gujarat,26.35
+1971,Haryana,24.48
+1971,Himachal Pradesh,9.7
+1971,Karnataka,25.16
+1971,Kerala,25.35
+1971,Lakshadweep,26.31
+1971,Maharashtra,25.93
+1971,Manipur,18.98
+1971,Meghalaya,21.1
+1971,Mizoram,20.82
+1971,Nagaland,18.48
+1971,Orissa,24.87
+1971,Punjab,24.24
+1971,Rajasthan,25.27
+1971,Sikkim,3.78
+1971,Tamil Nadu,26.52
+1971,Tripura,24.01
+1971,West Bengal,24.81
+1971,Arunachal Pradesh,17.94
+1971,Bihar,24.35
+1971,Chandigarh,23.29
+1971,Chhattisgarh,24.8
+1971,Dadra and Nagar Haveli,25.77
+1971,Daman and Diu,25.91
+1971,Jharkhand,23.9
+1971,Madhya Pradesh,24.65
+1971,Puducherry,27.4
+1971,Uttar Pradesh,24.66
+1971,Uttarakhand,13.51
+1972,India,24.38
+1972,Andaman and Nicobar,26.61
+1972,Andhra Pradesh,27.66
+1972,Assam,22.95
+1972,Delhi,24.99
+1972,Goa,26.7
+1972,Gujarat,26.65
+1972,Haryana,24.76
+1972,Himachal Pradesh,9.6
+1972,Karnataka,25.86
+1972,Kerala,25.91
+1972,Lakshadweep,27
+1972,Maharashtra,26.64
+1972,Manipur,19.29
+1972,Meghalaya,21.52
+1972,Mizoram,21.16
+1972,Nagaland,18.83
+1972,Orissa,25.89
+1972,Punjab,24.12
+1972,Rajasthan,25.49
+1972,Sikkim,4.38
+1972,Tamil Nadu,27.05
+1972,Tripura,24.41
+1972,West Bengal,25.5
+1972,Arunachal Pradesh,18.31
+1972,Bihar,25.13
+1972,Chandigarh,23.32
+1972,Chhattisgarh,25.78
+1972,Dadra and Nagar Haveli,26.25
+1972,Daman and Diu,26.21
+1972,Jharkhand,24.77
+1972,Madhya Pradesh,25.4
+1972,Puducherry,27.98
+1972,Uttar Pradesh,25.3
+1972,Uttarakhand,13.76
+1973,India,24.5
+1973,Andaman and Nicobar,26.75
+1973,Andhra Pradesh,27.77
+1973,Assam,23.13
+1973,Delhi,25
+1973,Goa,26.67
+1973,Gujarat,26.6
+1973,Haryana,24.84
+1973,Himachal Pradesh,9.83
+1973,Karnataka,25.9
+1973,Kerala,26.14
+1973,Lakshadweep,27.23
+1973,Maharashtra,26.68
+1973,Manipur,19.58
+1973,Meghalaya,21.64
+1973,Mizoram,21.4
+1973,Nagaland,19.09
+1973,Orissa,25.99
+1973,Punjab,24.39
+1973,Rajasthan,25.61
+1973,Sikkim,4.36
+1973,Tamil Nadu,27.28
+1973,Tripura,24.6
+1973,West Bengal,25.5
+1973,Arunachal Pradesh,18.52
+1973,Bihar,25.1
+1973,Chandigarh,23.47
+1973,Chhattisgarh,26.02
+1973,Dadra and Nagar Haveli,26.16
+1973,Daman and Diu,26.16
+1973,Jharkhand,24.77
+1973,Madhya Pradesh,25.59
+1973,Puducherry,28.18
+1973,Uttar Pradesh,25.46
+1973,Uttarakhand,13.83
+1974,India,24.27
+1974,Andaman and Nicobar,26.3
+1974,Andhra Pradesh,27.28
+1974,Assam,22.9
+1974,Delhi,24.92
+1974,Goa,26.29
+1974,Gujarat,26.81
+1974,Haryana,24.74
+1974,Himachal Pradesh,9.44
+1974,Karnataka,25.44
+1974,Kerala,25.71
+1974,Lakshadweep,26.86
+1974,Maharashtra,26.4
+1974,Manipur,19.17
+1974,Meghalaya,21.42
+1974,Mizoram,21.01
+1974,Nagaland,18.76
+1974,Orissa,25.66
+1974,Punjab,24.16
+1974,Rajasthan,25.68
+1974,Sikkim,4.44
+1974,Tamil Nadu,26.81
+1974,Tripura,24.24
+1974,West Bengal,25.28
+1974,Arunachal Pradesh,18.28
+1974,Bihar,25.08
+1974,Chandigarh,23.18
+1974,Chhattisgarh,25.66
+1974,Dadra and Nagar Haveli,26.2
+1974,Daman and Diu,26.32
+1974,Jharkhand,24.6
+1974,Madhya Pradesh,25.41
+1974,Puducherry,27.7
+1974,Uttar Pradesh,25.35
+1974,Uttarakhand,13.59
+1975,India,23.97
+1975,Andaman and Nicobar,26.24
+1975,Andhra Pradesh,27.03
+1975,Assam,22.98
+1975,Delhi,24.36
+1975,Goa,25.99
+1975,Gujarat,26.25
+1975,Haryana,24.18
+1975,Himachal Pradesh,8.95
+1975,Karnataka,25.21
+1975,Kerala,25.59
+1975,Lakshadweep,26.66
+1975,Maharashtra,25.97
+1975,Manipur,19.32
+1975,Meghalaya,21.5
+1975,Mizoram,21.15
+1975,Nagaland,18.89
+1975,Orissa,25.56
+1975,Punjab,23.63
+1975,Rajasthan,25.12
+1975,Sikkim,4.42
+1975,Tamil Nadu,26.76
+1975,Tripura,24.42
+1975,West Bengal,25.47
+1975,Arunachal Pradesh,18.39
+1975,Bihar,25.08
+1975,Chandigarh,22.66
+1975,Chhattisgarh,25.41
+1975,Dadra and Nagar Haveli,25.6
+1975,Daman and Diu,25.83
+1975,Jharkhand,24.65
+1975,Madhya Pradesh,24.96
+1975,Puducherry,27.63
+1975,Uttar Pradesh,25
+1975,Uttarakhand,13.11
+1976,India,24.3
+1976,Andaman and Nicobar,26.1
+1976,Andhra Pradesh,27.31
+1976,Assam,22.96
+1976,Delhi,24.61
+1976,Goa,26.48
+1976,Gujarat,26.76
+1976,Haryana,24.44
+1976,Himachal Pradesh,9.27
+1976,Karnataka,25.57
+1976,Kerala,25.91
+1976,Lakshadweep,27.05
+1976,Maharashtra,26.54
+1976,Manipur,19.32
+1976,Meghalaya,21.56
+1976,Mizoram,21.23
+1976,Nagaland,18.83
+1976,Orissa,25.86
+1976,Punjab,23.88
+1976,Rajasthan,25.45
+1976,Sikkim,4.35
+1976,Tamil Nadu,26.96
+1976,Tripura,24.47
+1976,West Bengal,25.66
+1976,Arunachal Pradesh,18.2
+1976,Bihar,25.23
+1976,Chandigarh,22.99
+1976,Chhattisgarh,25.78
+1976,Dadra and Nagar Haveli,26.25
+1976,Daman and Diu,26.35
+1976,Jharkhand,24.88
+1976,Madhya Pradesh,25.45
+1976,Puducherry,27.82
+1976,Uttar Pradesh,25.27
+1976,Uttarakhand,13.41
+1977,India,24.45
+1977,Andaman and Nicobar,26.42
+1977,Andhra Pradesh,27.49
+1977,Assam,22.65
+1977,Delhi,24.9
+1977,Goa,26.72
+1977,Gujarat,27.2
+1977,Haryana,24.79
+1977,Himachal Pradesh,9.69
+1977,Karnataka,25.84
+1977,Kerala,26.09
+1977,Lakshadweep,27.32
+1977,Maharashtra,26.76
+1977,Manipur,19.04
+1977,Meghalaya,21.31
+1977,Mizoram,20.96
+1977,Nagaland,18.53
+1977,Orissa,25.71
+1977,Punjab,24.38
+1977,Rajasthan,25.88
+1977,Sikkim,4.24
+1977,Tamil Nadu,27.13
+1977,Tripura,24.19
+1977,West Bengal,25.34
+1977,Arunachal Pradesh,17.91
+1977,Bihar,25.1
+1977,Chandigarh,23.37
+1977,Chhattisgarh,25.75
+1977,Dadra and Nagar Haveli,26.58
+1977,Daman and Diu,26.76
+1977,Jharkhand,24.67
+1977,Madhya Pradesh,25.54
+1977,Puducherry,27.99
+1977,Uttar Pradesh,25.31
+1977,Uttarakhand,13.64
+1978,India,24.24
+1978,Andaman and Nicobar,26.54
+1978,Andhra Pradesh,27.42
+1978,Assam,22.76
+1978,Delhi,24.67
+1978,Goa,26.51
+1978,Gujarat,26.69
+1978,Haryana,24.6
+1978,Himachal Pradesh,9.44
+1978,Karnataka,25.71
+1978,Kerala,26.09
+1978,Lakshadweep,27.22
+1978,Maharashtra,26.43
+1978,Manipur,19.28
+1978,Meghalaya,21.37
+1978,Mizoram,21.16
+1978,Nagaland,18.75
+1978,Orissa,25.6
+1978,Punjab,24.17
+1978,Rajasthan,25.53
+1978,Sikkim,3.93
+1978,Tamil Nadu,27.2
+1978,Tripura,24.36
+1978,West Bengal,25.31
+1978,Arunachal Pradesh,18.01
+1978,Bihar,24.8
+1978,Chandigarh,23.11
+1978,Chhattisgarh,25.55
+1978,Dadra and Nagar Haveli,26.14
+1978,Daman and Diu,26.22
+1978,Jharkhand,24.47
+1978,Madhya Pradesh,25.22
+1978,Puducherry,28.07
+1978,Uttar Pradesh,25.03
+1978,Uttarakhand,13.37
+1979,India,24.7
+1979,Andaman and Nicobar,27.27
+1979,Andhra Pradesh,27.9
+1979,Assam,23.34
+1979,Delhi,24.9
+1979,Goa,26.91
+1979,Gujarat,26.91
+1979,Haryana,24.82
+1979,Himachal Pradesh,9.47
+1979,Karnataka,26.14
+1979,Kerala,26.38
+1979,Lakshadweep,27.53
+1979,Maharashtra,26.9
+1979,Manipur,19.81
+1979,Meghalaya,22.05
+1979,Mizoram,21.74
+1979,Nagaland,19.23
+1979,Orissa,26.29
+1979,Punjab,24.24
+1979,Rajasthan,25.8
+1979,Sikkim,4.69
+1979,Tamil Nadu,27.48
+1979,Tripura,24.99
+1979,West Bengal,26.14
+1979,Arunachal Pradesh,18.5
+1979,Bihar,25.67
+1979,Chandigarh,23.24
+1979,Chhattisgarh,26.2
+1979,Dadra and Nagar Haveli,26.47
+1979,Daman and Diu,26.48
+1979,Jharkhand,25.33
+1979,Madhya Pradesh,25.81
+1979,Puducherry,28.36
+1979,Uttar Pradesh,25.62
+1979,Uttarakhand,13.6
+1980,India,24.73
+1980,Andaman and Nicobar,27.03
+1980,Andhra Pradesh,27.88
+1980,Assam,23.07
+1980,Delhi,25.35
+1980,Goa,26.9
+1980,Gujarat,27
+1980,Haryana,25.22
+1980,Himachal Pradesh,9.9
+1980,Karnataka,26.15
+1980,Kerala,26.45
+1980,Lakshadweep,27.55
+1980,Maharashtra,26.93
+1980,Manipur,19.52
+1980,Meghalaya,21.73
+1980,Mizoram,21.41
+1980,Nagaland,18.98
+1980,Orissa,26.06
+1980,Punjab,24.62
+1980,Rajasthan,26.09
+1980,Sikkim,4.48
+1980,Tamil Nadu,27.55
+1980,Tripura,24.64
+1980,West Bengal,25.76
+1980,Arunachal Pradesh,18.3
+1980,Bihar,25.37
+1980,Chandigarh,23.68
+1980,Chhattisgarh,26.11
+1980,Dadra and Nagar Haveli,26.48
+1980,Daman and Diu,26.49
+1980,Jharkhand,24.97
+1980,Madhya Pradesh,25.88
+1980,Puducherry,28.42
+1980,Uttar Pradesh,25.71
+1980,Uttarakhand,13.97
+1981,India,24.37
+1981,Andaman and Nicobar,26.63
+1981,Andhra Pradesh,27.48
+1981,Assam,23.01
+1981,Delhi,24.93
+1981,Goa,26.58
+1981,Gujarat,26.78
+1981,Haryana,24.81
+1981,Himachal Pradesh,9.51
+1981,Karnataka,25.81
+1981,Kerala,26.17
+1981,Lakshadweep,27.36
+1981,Maharashtra,26.53
+1981,Manipur,19.46
+1981,Meghalaya,21.51
+1981,Mizoram,21.19
+1981,Nagaland,19.02
+1981,Orissa,25.58
+1981,Punjab,24.27
+1981,Rajasthan,25.82
+1981,Sikkim,4.19
+1981,Tamil Nadu,27.25
+1981,Tripura,24.36
+1981,West Bengal,25.25
+1981,Arunachal Pradesh,18.45
+1981,Bihar,24.9
+1981,Chandigarh,23.24
+1981,Chhattisgarh,25.66
+1981,Dadra and Nagar Haveli,26.11
+1981,Daman and Diu,26.26
+1981,Jharkhand,24.44
+1981,Madhya Pradesh,25.47
+1981,Puducherry,28.13
+1981,Uttar Pradesh,25.3
+1981,Uttarakhand,13.56
+1982,India,24.37
+1982,Andaman and Nicobar,26.52
+1982,Andhra Pradesh,27.76
+1982,Assam,22.89
+1982,Delhi,24.47
+1982,Goa,26.85
+1982,Gujarat,26.79
+1982,Haryana,24.34
+1982,Himachal Pradesh,9.07
+1982,Karnataka,26.04
+1982,Kerala,26.34
+1982,Lakshadweep,27.52
+1982,Maharashtra,26.76
+1982,Manipur,19.3
+1982,Meghalaya,21.5
+1982,Mizoram,21.21
+1982,Nagaland,18.77
+1982,Orissa,25.91
+1982,Punjab,23.72
+1982,Rajasthan,25.38
+1982,Sikkim,4.27
+1982,Tamil Nadu,27.41
+1982,Tripura,24.41
+1982,West Bengal,25.54
+1982,Arunachal Pradesh,18.06
+1982,Bihar,25.12
+1982,Chandigarh,22.79
+1982,Chhattisgarh,25.87
+1982,Dadra and Nagar Haveli,26.41
+1982,Daman and Diu,26.43
+1982,Jharkhand,24.73
+1982,Madhya Pradesh,25.42
+1982,Puducherry,28.28
+1982,Uttar Pradesh,25.11
+1982,Uttarakhand,13.18
+1983,India,24.13
+1983,Andaman and Nicobar,26.78
+1983,Andhra Pradesh,27.7
+1983,Assam,22.71
+1983,Delhi,24.07
+1983,Goa,26.62
+1983,Gujarat,26.3
+1983,Haryana,23.93
+1983,Himachal Pradesh,8.73
+1983,Karnataka,25.95
+1983,Kerala,26.58
+1983,Lakshadweep,27.75
+1983,Maharashtra,26.36
+1983,Manipur,19.22
+1983,Meghalaya,21.4
+1983,Mizoram,21.22
+1983,Nagaland,18.58
+1983,Orissa,25.83
+1983,Punjab,23.4
+1983,Rajasthan,24.97
+1983,Sikkim,3.99
+1983,Tamil Nadu,27.68
+1983,Tripura,24.44
+1983,West Bengal,25.5
+1983,Arunachal Pradesh,17.87
+1983,Bihar,24.98
+1983,Chandigarh,22.43
+1983,Chhattisgarh,25.68
+1983,Dadra and Nagar Haveli,25.84
+1983,Daman and Diu,25.9
+1983,Jharkhand,24.66
+1983,Madhya Pradesh,24.97
+1983,Puducherry,28.5
+1983,Uttar Pradesh,24.76
+1983,Uttarakhand,12.81
+1984,India,24.31
+1984,Andaman and Nicobar,26.7
+1984,Andhra Pradesh,27.52
+1984,Assam,23.09
+1984,Delhi,24.89
+1984,Goa,26.62
+1984,Gujarat,26.43
+1984,Haryana,24.68
+1984,Himachal Pradesh,9.67
+1984,Karnataka,25.82
+1984,Kerala,26
+1984,Lakshadweep,27.2
+1984,Maharashtra,26.47
+1984,Manipur,19.38
+1984,Meghalaya,21.59
+1984,Mizoram,21.29
+1984,Nagaland,18.93
+1984,Orissa,25.69
+1984,Punjab,24.17
+1984,Rajasthan,25.4
+1984,Sikkim,4.58
+1984,Tamil Nadu,27.06
+1984,Tripura,24.5
+1984,West Bengal,25.53
+1984,Arunachal Pradesh,18.41
+1984,Bihar,25.21
+1984,Chandigarh,23.34
+1984,Chhattisgarh,25.66
+1984,Dadra and Nagar Haveli,26.02
+1984,Daman and Diu,25.97
+1984,Jharkhand,24.65
+1984,Madhya Pradesh,25.27
+1984,Puducherry,27.97
+1984,Uttar Pradesh,25.33
+1984,Uttarakhand,13.7
+1985,India,24.6
+1985,Andaman and Nicobar,26.71
+1985,Andhra Pradesh,27.63
+1985,Assam,23.13
+1985,Delhi,25.18
+1985,Goa,26.7
+1985,Gujarat,26.84
+1985,Haryana,25.03
+1985,Himachal Pradesh,9.91
+1985,Karnataka,25.91
+1985,Kerala,26.23
+1985,Lakshadweep,27.44
+1985,Maharashtra,26.69
+1985,Manipur,19.51
+1985,Meghalaya,21.77
+1985,Mizoram,21.49
+1985,Nagaland,18.93
+1985,Orissa,26
+1985,Punjab,24.49
+1985,Rajasthan,25.88
+1985,Sikkim,4.66
+1985,Tamil Nadu,27.28
+1985,Tripura,24.71
+1985,West Bengal,25.88
+1985,Arunachal Pradesh,18.25
+1985,Bihar,25.53
+1985,Chandigarh,23.61
+1985,Chhattisgarh,25.97
+1985,Dadra and Nagar Haveli,26.29
+1985,Daman and Diu,26.3
+1985,Jharkhand,25.1
+1985,Madhya Pradesh,25.68
+1985,Puducherry,28.14
+1985,Uttar Pradesh,25.66
+1985,Uttarakhand,13.95
+1986,India,24.4
+1986,Andaman and Nicobar,26.56
+1986,Andhra Pradesh,27.77
+1986,Assam,22.9
+1986,Delhi,24.45
+1986,Goa,26.91
+1986,Gujarat,26.83
+1986,Haryana,24.31
+1986,Himachal Pradesh,8.96
+1986,Karnataka,26.12
+1986,Kerala,26.39
+1986,Lakshadweep,27.59
+1986,Maharashtra,26.84
+1986,Manipur,19.47
+1986,Meghalaya,21.61
+1986,Mizoram,21.5
+1986,Nagaland,18.77
+1986,Orissa,25.86
+1986,Punjab,23.61
+1986,Rajasthan,25.49
+1986,Sikkim,4.13
+1986,Tamil Nadu,27.42
+1986,Tripura,24.69
+1986,West Bengal,25.65
+1986,Arunachal Pradesh,18.17
+1986,Bihar,24.99
+1986,Chandigarh,22.67
+1986,Chhattisgarh,25.84
+1986,Dadra and Nagar Haveli,26.42
+1986,Daman and Diu,26.32
+1986,Jharkhand,24.75
+1986,Madhya Pradesh,25.54
+1986,Puducherry,28.28
+1986,Uttar Pradesh,25.05
+1986,Uttarakhand,13.08
+1987,India,24.82
+1987,Andaman and Nicobar,27.19
+1987,Andhra Pradesh,27.81
+1987,Assam,23.19
+1987,Delhi,25.38
+1987,Goa,27.1
+1987,Gujarat,27.55
+1987,Haryana,25.24
+1987,Himachal Pradesh,9.76
+1987,Karnataka,26.25
+1987,Kerala,26.67
+1987,Lakshadweep,27.94
+1987,Maharashtra,27.07
+1987,Manipur,19.75
+1987,Meghalaya,21.92
+1987,Mizoram,21.81
+1987,Nagaland,19.07
+1987,Orissa,26.1
+1987,Punjab,24.48
+1987,Rajasthan,26.31
+1987,Sikkim,4.32
+1987,Tamil Nadu,27.67
+1987,Tripura,25.01
+1987,West Bengal,25.99
+1987,Arunachal Pradesh,18.41
+1987,Bihar,25.3
+1987,Chandigarh,23.53
+1987,Chhattisgarh,26.01
+1987,Dadra and Nagar Haveli,26.94
+1987,Daman and Diu,27.03
+1987,Jharkhand,25.08
+1987,Madhya Pradesh,26
+1987,Puducherry,28.53
+1987,Uttar Pradesh,25.72
+1987,Uttarakhand,13.89
+1988,India,24.83
+1988,Andaman and Nicobar,26.77
+1988,Andhra Pradesh,27.74
+1988,Assam,23.44
+1988,Delhi,25.43
+1988,Goa,26.85
+1988,Gujarat,27.41
+1988,Haryana,25.29
+1988,Himachal Pradesh,10.02
+1988,Karnataka,26.09
+1988,Kerala,26.55
+1988,Lakshadweep,27.82
+1988,Maharashtra,26.9
+1988,Manipur,19.86
+1988,Meghalaya,22.06
+1988,Mizoram,21.89
+1988,Nagaland,19.29
+1988,Orissa,26.08
+1988,Punjab,24.72
+1988,Rajasthan,26.35
+1988,Sikkim,4.8
+1988,Tamil Nadu,27.55
+1988,Tripura,25.07
+1988,West Bengal,26.1
+1988,Arunachal Pradesh,18.72
+1988,Bihar,25.6
+1988,Chandigarh,23.73
+1988,Chhattisgarh,26.04
+1988,Dadra and Nagar Haveli,26.66
+1988,Daman and Diu,26.85
+1988,Jharkhand,25.2
+1988,Madhya Pradesh,25.9
+1988,Puducherry,28.41
+1988,Uttar Pradesh,25.79
+1988,Uttarakhand,14.08
+1989,India,24.25
+1989,Andaman and Nicobar,26.3
+1989,Andhra Pradesh,27.38
+1989,Assam,23.02
+1989,Delhi,24.41
+1989,Goa,26.46
+1989,Gujarat,26.67
+1989,Haryana,24.26
+1989,Himachal Pradesh,8.95
+1989,Karnataka,25.7
+1989,Kerala,26.15
+1989,Lakshadweep,27.38
+1989,Maharashtra,26.42
+1989,Manipur,19.42
+1989,Meghalaya,21.65
+1989,Mizoram,21.37
+1989,Nagaland,18.9
+1989,Orissa,25.78
+1989,Punjab,23.67
+1989,Rajasthan,25.45
+1989,Sikkim,4.5
+1989,Tamil Nadu,27.19
+1989,Tripura,24.64
+1989,West Bengal,25.75
+1989,Arunachal Pradesh,18.26
+1989,Bihar,25.23
+1989,Chandigarh,22.65
+1989,Chhattisgarh,25.65
+1989,Dadra and Nagar Haveli,26.03
+1989,Daman and Diu,26.16
+1989,Jharkhand,24.85
+1989,Madhya Pradesh,25.33
+1989,Puducherry,28.06
+1989,Uttar Pradesh,25.06
+1989,Uttarakhand,13.05
+1990,India,24.37
+1990,Andaman and Nicobar,27.41
+1990,Andhra Pradesh,27.42
+1990,Assam,23.05
+1990,Delhi,24.82
+1990,Goa,26.52
+1990,Gujarat,26.69
+1990,Haryana,24.71
+1990,Himachal Pradesh,9.66
+1990,Karnataka,25.82
+1990,Kerala,26.46
+1990,Lakshadweep,27.69
+1990,Maharashtra,26.36
+1990,Manipur,19.56
+1990,Meghalaya,21.7
+1990,Mizoram,21.54
+1990,Nagaland,18.93
+1990,Orissa,25.7
+1990,Punjab,24.29
+1990,Rajasthan,25.68
+1990,Sikkim,4.47
+1990,Tamil Nadu,27.49
+1990,Tripura,24.74
+1990,West Bengal,25.69
+1990,Arunachal Pradesh,18.21
+1990,Bihar,25.28
+1990,Chandigarh,23.29
+1990,Chhattisgarh,25.57
+1990,Dadra and Nagar Haveli,26.12
+1990,Daman and Diu,26.17
+1990,Jharkhand,24.87
+1990,Madhya Pradesh,25.25
+1990,Puducherry,28.33
+1990,Uttar Pradesh,25.23
+1990,Uttarakhand,13.63
+1991,India,24.46
+1991,Andaman and Nicobar,27.29
+1991,Andhra Pradesh,27.66
+1991,Assam,22.66
+1991,Delhi,24.81
+1991,Goa,26.66
+1991,Gujarat,26.67
+1991,Haryana,24.63
+1991,Himachal Pradesh,9.28
+1991,Karnataka,25.99
+1991,Kerala,26.5
+1991,Lakshadweep,27.75
+1991,Maharashtra,26.66
+1991,Manipur,19.2
+1991,Meghalaya,21.24
+1991,Mizoram,21.06
+1991,Nagaland,18.63
+1991,Orissa,25.93
+1991,Punjab,24.05
+1991,Rajasthan,25.73
+1991,Sikkim,4.27
+1991,Tamil Nadu,27.52
+1991,Tripura,24.25
+1991,West Bengal,25.55
+1991,Arunachal Pradesh,18.13
+1991,Bihar,25.25
+1991,Chandigarh,23.07
+1991,Chhattisgarh,25.97
+1991,Dadra and Nagar Haveli,26.17
+1991,Daman and Diu,26.16
+1991,Jharkhand,24.9
+1991,Madhya Pradesh,25.63
+1991,Puducherry,28.37
+1991,Uttar Pradesh,25.39
+1991,Uttarakhand,13.47
+1992,India,24.34
+1992,Andaman and Nicobar,26.9
+1992,Andhra Pradesh,27.55
+1992,Assam,22.46
+1992,Delhi,24.74
+1992,Goa,26.62
+1992,Gujarat,26.76
+1992,Haryana,24.48
+1992,Himachal Pradesh,9.27
+1992,Karnataka,25.83
+1992,Kerala,26.22
+1992,Lakshadweep,27.43
+1992,Maharashtra,26.69
+1992,Manipur,19.01
+1992,Meghalaya,21.1
+1992,Mizoram,20.95
+1992,Nagaland,18.36
+1992,Orissa,25.75
+1992,Punjab,23.93
+1992,Rajasthan,25.58
+1992,Sikkim,4.1
+1992,Tamil Nadu,27.28
+1992,Tripura,24.17
+1992,West Bengal,25.3
+1992,Arunachal Pradesh,17.78
+1992,Bihar,25.01
+1992,Chandigarh,22.95
+1992,Chhattisgarh,25.83
+1992,Dadra and Nagar Haveli,26.31
+1992,Daman and Diu,26.26
+1992,Jharkhand,24.68
+1992,Madhya Pradesh,25.56
+1992,Puducherry,28.15
+1992,Uttar Pradesh,25.25
+1992,Uttarakhand,13.42
+1993,India,24.58
+1993,Andaman and Nicobar,27.17
+1993,Andhra Pradesh,27.61
+1993,Assam,22.74
+1993,Delhi,25.2
+1993,Goa,26.69
+1993,Gujarat,27.37
+1993,Haryana,24.99
+1993,Himachal Pradesh,9.77
+1993,Karnataka,25.9
+1993,Kerala,26.3
+1993,Lakshadweep,27.53
+1993,Maharashtra,26.75
+1993,Manipur,19.16
+1993,Meghalaya,21.25
+1993,Mizoram,20.96
+1993,Nagaland,18.67
+1993,Orissa,25.78
+1993,Punjab,24.46
+1993,Rajasthan,26.15
+1993,Sikkim,4.49
+1993,Tamil Nadu,27.37
+1993,Tripura,24.14
+1993,West Bengal,25.36
+1993,Arunachal Pradesh,18.19
+1993,Bihar,25.25
+1993,Chandigarh,23.48
+1993,Chhattisgarh,25.88
+1993,Dadra and Nagar Haveli,26.6
+1993,Daman and Diu,26.8
+1993,Jharkhand,24.8
+1993,Madhya Pradesh,25.69
+1993,Puducherry,28.24
+1993,Uttar Pradesh,25.55
+1993,Uttarakhand,13.84
+1994,India,24.44
+1994,Andaman and Nicobar,27.07
+1994,Andhra Pradesh,27.45
+1994,Assam,23.13
+1994,Delhi,25.12
+1994,Goa,26.55
+1994,Gujarat,26.88
+1994,Haryana,24.93
+1994,Himachal Pradesh,9.78
+1994,Karnataka,25.79
+1994,Kerala,26.33
+1994,Lakshadweep,27.56
+1994,Maharashtra,26.42
+1994,Manipur,19.59
+1994,Meghalaya,21.57
+1994,Mizoram,21.36
+1994,Nagaland,19.14
+1994,Orissa,25.75
+1994,Punjab,24.37
+1994,Rajasthan,25.76
+1994,Sikkim,4.53
+1994,Tamil Nadu,27.4
+1994,Tripura,24.57
+1994,West Bengal,25.6
+1994,Arunachal Pradesh,18.66
+1994,Bihar,25.31
+1994,Chandigarh,23.47
+1994,Chhattisgarh,25.67
+1994,Dadra and Nagar Haveli,26.27
+1994,Daman and Diu,26.36
+1994,Jharkhand,24.88
+1994,Madhya Pradesh,25.38
+1994,Puducherry,28.26
+1994,Uttar Pradesh,25.51
+1994,Uttarakhand,13.95
+1995,India,24.59
+1995,Andaman and Nicobar,27.15
+1995,Andhra Pradesh,27.57
+1995,Assam,23.34
+1995,Delhi,25.03
+1995,Goa,26.72
+1995,Gujarat,27.16
+1995,Haryana,24.79
+1995,Himachal Pradesh,9.5
+1995,Karnataka,25.93
+1995,Kerala,26.47
+1995,Lakshadweep,27.73
+1995,Maharashtra,26.72
+1995,Manipur,19.79
+1995,Meghalaya,21.84
+1995,Mizoram,21.66
+1995,Nagaland,19.22
+1995,Orissa,25.89
+1995,Punjab,24.18
+1995,Rajasthan,25.88
+1995,Sikkim,4.86
+1995,Tamil Nadu,27.52
+1995,Tripura,24.85
+1995,West Bengal,25.93
+1995,Arunachal Pradesh,18.65
+1995,Bihar,25.51
+1995,Chandigarh,23.23
+1995,Chhattisgarh,25.84
+1995,Dadra and Nagar Haveli,26.57
+1995,Daman and Diu,26.68
+1995,Jharkhand,25.09
+1995,Madhya Pradesh,25.66
+1995,Puducherry,28.38
+1995,Uttar Pradesh,25.58
+1995,Uttarakhand,13.74
+1996,India,24.66
+1996,Andaman and Nicobar,26.94
+1996,Andhra Pradesh,27.75
+1996,Assam,23.18
+1996,Delhi,25.15
+1996,Goa,26.8
+1996,Gujarat,27.06
+1996,Haryana,24.82
+1996,Himachal Pradesh,9.72
+1996,Karnataka,25.99
+1996,Kerala,26.36
+1996,Lakshadweep,27.57
+1996,Maharashtra,26.93
+1996,Manipur,19.72
+1996,Meghalaya,21.73
+1996,Mizoram,21.56
+1996,Nagaland,19.14
+1996,Orissa,26
+1996,Punjab,24.21
+1996,Rajasthan,25.81
+1996,Sikkim,4.63
+1996,Tamil Nadu,27.44
+1996,Tripura,24.79
+1996,West Bengal,25.8
+1996,Arunachal Pradesh,18.47
+1996,Bihar,25.4
+1996,Chandigarh,23.39
+1996,Chhattisgarh,26.07
+1996,Dadra and Nagar Haveli,26.6
+1996,Daman and Diu,26.61
+1996,Jharkhand,25.04
+1996,Madhya Pradesh,25.87
+1996,Puducherry,28.31
+1996,Uttar Pradesh,25.74
+1996,Uttarakhand,13.94
+1997,India,24.18
+1997,Andaman and Nicobar,27.1
+1997,Andhra Pradesh,27.78
+1997,Assam,22.54
+1997,Delhi,24
+1997,Goa,26.82
+1997,Gujarat,26.57
+1997,Haryana,23.74
+1997,Himachal Pradesh,8.92
+1997,Karnataka,26.12
+1997,Kerala,26.62
+1997,Lakshadweep,27.84
+1997,Maharashtra,26.55
+1997,Manipur,19.18
+1997,Meghalaya,21.15
+1997,Mizoram,21.14
+1997,Nagaland,18.53
+1997,Orissa,25.83
+1997,Punjab,23.31
+1997,Rajasthan,24.86
+1997,Sikkim,3.83
+1997,Tamil Nadu,27.71
+1997,Tripura,24.35
+1997,West Bengal,25.33
+1997,Arunachal Pradesh,17.77
+1997,Bihar,24.85
+1997,Chandigarh,22.43
+1997,Chhattisgarh,25.74
+1997,Dadra and Nagar Haveli,26.22
+1997,Daman and Diu,26.26
+1997,Jharkhand,24.64
+1997,Madhya Pradesh,25.05
+1997,Puducherry,28.58
+1997,Uttar Pradesh,24.79
+1997,Uttarakhand,13
+1998,India,24.93
+1998,Andaman and Nicobar,27.5
+1998,Andhra Pradesh,28.21
+1998,Assam,23.5
+1998,Delhi,25.08
+1998,Goa,27.26
+1998,Gujarat,27.45
+1998,Haryana,24.89
+1998,Himachal Pradesh,9.79
+1998,Karnataka,26.48
+1998,Kerala,26.93
+1998,Lakshadweep,28.1
+1998,Maharashtra,27.16
+1998,Manipur,19.95
+1998,Meghalaya,22.09
+1998,Mizoram,21.86
+1998,Nagaland,19.37
+1998,Orissa,26.32
+1998,Punjab,24.4
+1998,Rajasthan,26.04
+1998,Sikkim,5.18
+1998,Tamil Nadu,28.07
+1998,Tripura,25.07
+1998,West Bengal,26.16
+1998,Arunachal Pradesh,18.72
+1998,Bihar,25.86
+1998,Chandigarh,23.42
+1998,Chhattisgarh,26.34
+1998,Dadra and Nagar Haveli,26.88
+1998,Daman and Diu,26.99
+1998,Jharkhand,25.44
+1998,Madhya Pradesh,25.87
+1998,Puducherry,28.94
+1998,Uttar Pradesh,25.74
+1998,Uttarakhand,13.87
+1999,India,24.82
+1999,Andaman and Nicobar,26.68
+1999,Andhra Pradesh,27.63
+1999,Assam,23.77
+1999,Delhi,25.61
+1999,Goa,26.63
+1999,Gujarat,27.17
+1999,Haryana,25.44
+1999,Himachal Pradesh,10.53
+1999,Karnataka,25.85
+1999,Kerala,26.31
+1999,Lakshadweep,27.53
+1999,Maharashtra,26.65
+1999,Manipur,20.17
+1999,Meghalaya,22.26
+1999,Mizoram,21.96
+1999,Nagaland,19.69
+1999,Orissa,26.15
+1999,Punjab,25.09
+1999,Rajasthan,26.17
+1999,Sikkim,5.23
+1999,Tamil Nadu,27.4
+1999,Tripura,25.21
+1999,West Bengal,26.26
+1999,Arunachal Pradesh,19.11
+1999,Bihar,25.88
+1999,Chandigarh,24.09
+1999,Chhattisgarh,26.04
+1999,Dadra and Nagar Haveli,26.42
+1999,Daman and Diu,26.64
+1999,Jharkhand,25.43
+1999,Madhya Pradesh,25.66
+1999,Puducherry,28.27
+1999,Uttar Pradesh,26.01
+1999,Uttarakhand,14.51
+2000,India,24.71
+2000,Andaman and Nicobar,26.98
+2000,Andhra Pradesh,27.69
+2000,Assam,22.85
+2000,Delhi,25.46
+2000,Goa,26.66
+2000,Gujarat,27.23
+2000,Haryana,25.29
+2000,Himachal Pradesh,10.26
+2000,Karnataka,25.89
+2000,Kerala,26.38
+2000,Lakshadweep,27.58
+2000,Maharashtra,26.75
+2000,Manipur,19.28
+2000,Meghalaya,21.36
+2000,Mizoram,21.15
+2000,Nagaland,18.8
+2000,Orissa,25.95
+2000,Punjab,24.85
+2000,Rajasthan,26.18
+2000,Sikkim,4.54
+2000,Tamil Nadu,27.5
+2000,Tripura,24.35
+2000,West Bengal,25.47
+2000,Arunachal Pradesh,18.21
+2000,Bihar,25.38
+2000,Chandigarh,23.89
+2000,Chhattisgarh,26.08
+2000,Dadra and Nagar Haveli,26.51
+2000,Daman and Diu,26.7
+2000,Jharkhand,24.96
+2000,Madhya Pradesh,25.81
+2000,Puducherry,28.38
+2000,Uttar Pradesh,25.87
+2000,Uttarakhand,14.28
+2001,India,24.88
+2001,Andaman and Nicobar,27.08
+2001,Andhra Pradesh,27.97
+2001,Assam,23.56
+2001,Delhi,25.47
+2001,Goa,26.99
+2001,Gujarat,27.15
+2001,Haryana,25.28
+2001,Himachal Pradesh,10.42
+2001,Karnataka,26.18
+2001,Kerala,26.57
+2001,Lakshadweep,27.74
+2001,Maharashtra,26.9
+2001,Manipur,20.03
+2001,Meghalaya,22.16
+2001,Mizoram,21.9
+2001,Nagaland,19.49
+2001,Orissa,26.28
+2001,Punjab,24.85
+2001,Rajasthan,26.03
+2001,Sikkim,4.97
+2001,Tamil Nadu,27.69
+2001,Tripura,25.14
+2001,West Bengal,26.16
+2001,Arunachal Pradesh,18.71
+2001,Bihar,25.73
+2001,Chandigarh,24.01
+2001,Chhattisgarh,26.21
+2001,Dadra and Nagar Haveli,26.55
+2001,Daman and Diu,26.7
+2001,Jharkhand,25.35
+2001,Madhya Pradesh,25.78
+2001,Puducherry,28.57
+2001,Uttar Pradesh,25.93
+2001,Uttarakhand,14.4
+2002,India,25.08
+2002,Andaman and Nicobar,27.18
+2002,Andhra Pradesh,28.05
+2002,Assam,23.33
+2002,Delhi,25.84
+2002,Goa,27.18
+2002,Gujarat,27.48
+2002,Haryana,25.63
+2002,Himachal Pradesh,10.33
+2002,Karnataka,26.33
+2002,Kerala,26.74
+2002,Lakshadweep,27.96
+2002,Maharashtra,27.14
+2002,Manipur,19.79
+2002,Meghalaya,21.87
+2002,Mizoram,21.67
+2002,Nagaland,19.26
+2002,Orissa,26.47
+2002,Punjab,25.01
+2002,Rajasthan,26.51
+2002,Sikkim,4.69
+2002,Tamil Nadu,27.8
+2002,Tripura,24.86
+2002,West Bengal,26.05
+2002,Arunachal Pradesh,18.63
+2002,Bihar,25.79
+2002,Chandigarh,24.04
+2002,Chhattisgarh,26.5
+2002,Dadra and Nagar Haveli,26.8
+2002,Daman and Diu,26.92
+2002,Jharkhand,25.47
+2002,Madhya Pradesh,26.24
+2002,Puducherry,28.66
+2002,Uttar Pradesh,26.24
+2002,Uttarakhand,14.49
+2003,India,24.85
+2003,Andaman and Nicobar,27.26
+2003,Andhra Pradesh,28.06
+2003,Assam,23.33
+2003,Delhi,25.09
+2003,Goa,27.18
+2003,Gujarat,27.29
+2003,Haryana,24.83
+2003,Himachal Pradesh,9.79
+2003,Karnataka,26.4
+2003,Kerala,26.78
+2003,Lakshadweep,27.99
+2003,Maharashtra,27.06
+2003,Manipur,19.74
+2003,Meghalaya,21.88
+2003,Mizoram,21.55
+2003,Nagaland,19.29
+2003,Orissa,26.35
+2003,Punjab,24.24
+2003,Rajasthan,25.86
+2003,Sikkim,4.75
+2003,Tamil Nadu,27.85
+2003,Tripura,24.8
+2003,West Bengal,26.01
+2003,Arunachal Pradesh,18.73
+2003,Bihar,25.69
+2003,Chandigarh,23.39
+2003,Chhattisgarh,26.32
+2003,Dadra and Nagar Haveli,26.7
+2003,Daman and Diu,26.89
+2003,Jharkhand,25.39
+2003,Madhya Pradesh,25.91
+2003,Puducherry,28.72
+2003,Uttar Pradesh,25.87
+2003,Uttarakhand,13.99
+2004,India,24.94
+2004,Andaman and Nicobar,27.29
+2004,Andhra Pradesh,27.68
+2004,Assam,23.27
+2004,Delhi,25.8
+2004,Goa,26.88
+2004,Gujarat,27.58
+2004,Haryana,25.59
+2004,Himachal Pradesh,10.49
+2004,Karnataka,26.02
+2004,Kerala,26.43
+2004,Lakshadweep,27.69
+2004,Maharashtra,26.93
+2004,Manipur,19.66
+2004,Meghalaya,21.9
+2004,Mizoram,21.54
+2004,Nagaland,19.13
+2004,Orissa,26.13
+2004,Punjab,25.01
+2004,Rajasthan,26.51
+2004,Sikkim,4.83
+2004,Tamil Nadu,27.49
+2004,Tripura,24.84
+2004,West Bengal,26.08
+2004,Arunachal Pradesh,18.43
+2004,Bihar,25.79
+2004,Chandigarh,24.16
+2004,Chhattisgarh,26.13
+2004,Dadra and Nagar Haveli,26.79
+2004,Daman and Diu,27.01
+2004,Jharkhand,25.34
+2004,Madhya Pradesh,26.04
+2004,Puducherry,28.36
+2004,Uttar Pradesh,26.21
+2004,Uttarakhand,14.57
+2005,India,24.7
+2005,Andaman and Nicobar,27.32
+2005,Andhra Pradesh,27.82
+2005,Assam,23.6
+2005,Delhi,25.06
+2005,Goa,26.74
+2005,Gujarat,26.85
+2005,Haryana,24.8
+2005,Himachal Pradesh,9.69
+2005,Karnataka,26.02
+2005,Kerala,26.56
+2005,Lakshadweep,27.84
+2005,Maharashtra,26.67
+2005,Manipur,20.05
+2005,Meghalaya,22.12
+2005,Mizoram,21.89
+2005,Nagaland,19.58
+2005,Orissa,26.3
+2005,Punjab,24.2
+2005,Rajasthan,25.67
+2005,Sikkim,5.03
+2005,Tamil Nadu,27.64
+2005,Tripura,25.11
+2005,West Bengal,26.23
+2005,Arunachal Pradesh,18.97
+2005,Bihar,25.82
+2005,Chandigarh,23.4
+2005,Chhattisgarh,26.21
+2005,Dadra and Nagar Haveli,26.26
+2005,Daman and Diu,26.4
+2005,Jharkhand,25.43
+2005,Madhya Pradesh,25.69
+2005,Puducherry,28.52
+2005,Uttar Pradesh,25.81
+2005,Uttarakhand,13.95
+2006,India,25
+2006,Andaman and Nicobar,27.14
+2006,Andhra Pradesh,27.92
+2006,Assam,23.92
+2006,Delhi,25.68
+2006,Goa,27.03
+2006,Gujarat,27.3
+2006,Haryana,25.47
+2006,Himachal Pradesh,10.44
+2006,Karnataka,26.2
+2006,Kerala,26.55
+2006,Lakshadweep,27.74
+2006,Maharashtra,26.97
+2006,Manipur,20.26
+2006,Meghalaya,22.49
+2006,Mizoram,22.11
+2006,Nagaland,19.8
+2006,Orissa,26.36
+2006,Punjab,24.93
+2006,Rajasthan,26.21
+2006,Sikkim,5.51
+2006,Tamil Nadu,27.65
+2006,Tripura,25.4
+2006,West Bengal,26.55
+2006,Arunachal Pradesh,19.15
+2006,Bihar,26.12
+2006,Chandigarh,24.19
+2006,Chhattisgarh,26.26
+2006,Dadra and Nagar Haveli,26.71
+2006,Daman and Diu,26.84
+2006,Jharkhand,25.64
+2006,Madhya Pradesh,25.92
+2006,Puducherry,28.53
+2006,Uttar Pradesh,26.2
+2006,Uttarakhand,14.58
+2007,India,25.01
+2007,Andaman and Nicobar,27.14
+2007,Andhra Pradesh,27.98
+2007,Assam,23.72
+2007,Delhi,25.67
+2007,Goa,27.11
+2007,Gujarat,27.54
+2007,Haryana,25.43
+2007,Himachal Pradesh,10.41
+2007,Karnataka,26.25
+2007,Kerala,26.53
+2007,Lakshadweep,27.78
+2007,Maharashtra,27.11
+2007,Manipur,19.92
+2007,Meghalaya,22.3
+2007,Mizoram,21.71
+2007,Nagaland,19.55
+2007,Orissa,26.3
+2007,Punjab,24.85
+2007,Rajasthan,26.3
+2007,Sikkim,5.4
+2007,Tamil Nadu,27.61
+2007,Tripura,25.02
+2007,West Bengal,26.33
+2007,Arunachal Pradesh,18.95
+2007,Bihar,25.95
+2007,Chandigarh,24.04
+2007,Chhattisgarh,26.28
+2007,Dadra and Nagar Haveli,26.85
+2007,Daman and Diu,27.06
+2007,Jharkhand,25.51
+2007,Madhya Pradesh,25.98
+2007,Puducherry,28.5
+2007,Uttar Pradesh,26.08
+2007,Uttarakhand,14.43
+2008,India,24.76
+2008,Andaman and Nicobar,26.98
+2008,Andhra Pradesh,27.89
+2008,Assam,23.45
+2008,Delhi,25.32
+2008,Goa,26.86
+2008,Gujarat,26.98
+2008,Haryana,25.12
+2008,Himachal Pradesh,10.07
+2008,Karnataka,26.1
+2008,Kerala,26.38
+2008,Lakshadweep,27.54
+2008,Maharashtra,26.8
+2008,Manipur,19.8
+2008,Meghalaya,22.01
+2008,Mizoram,21.64
+2008,Nagaland,19.35
+2008,Orissa,26.17
+2008,Punjab,24.57
+2008,Rajasthan,25.95
+2008,Sikkim,4.99
+2008,Tamil Nadu,27.51
+2008,Tripura,24.87
+2008,West Bengal,26.07
+2008,Arunachal Pradesh,18.68
+2008,Bihar,25.67
+2008,Chandigarh,23.72
+2008,Chhattisgarh,26.1
+2008,Dadra and Nagar Haveli,26.33
+2008,Daman and Diu,26.49
+2008,Jharkhand,25.29
+2008,Madhya Pradesh,25.72
+2008,Puducherry,28.42
+2008,Uttar Pradesh,25.81
+2008,Uttarakhand,14.16
+2009,India,25.47
+2009,Andaman and Nicobar,27.35
+2009,Andhra Pradesh,28.43
+2009,Assam,24.21
+2009,Delhi,26.08
+2009,Goa,27.39
+2009,Gujarat,27.96
+2009,Haryana,25.81
+2009,Himachal Pradesh,10.56
+2009,Karnataka,26.57
+2009,Kerala,26.79
+2009,Lakshadweep,27.96
+2009,Maharashtra,27.58
+2009,Manipur,20.47
+2009,Meghalaya,22.8
+2009,Mizoram,22.34
+2009,Nagaland,20.08
+2009,Orissa,26.92
+2009,Punjab,25.1
+2009,Rajasthan,26.81
+2009,Sikkim,5.66
+2009,Tamil Nadu,27.91
+2009,Tripura,25.6
+2009,West Bengal,26.8
+2009,Arunachal Pradesh,19.51
+2009,Bihar,26.41
+2009,Chandigarh,24.23
+2009,Chhattisgarh,26.89
+2009,Dadra and Nagar Haveli,27.23
+2009,Daman and Diu,27.41
+2009,Jharkhand,26.02
+2009,Madhya Pradesh,26.65
+2009,Puducherry,28.81
+2009,Uttar Pradesh,26.59
+2009,Uttarakhand,14.75
+2010,India,25.41
+2010,Andaman and Nicobar,27.81
+2010,Andhra Pradesh,28.25
+2010,Assam,24.05
+2010,Delhi,26.1
+2010,Goa,27.35
+2010,Gujarat,27.79
+2010,Haryana,25.89
+2010,Himachal Pradesh,10.66
+2010,Karnataka,26.5
+2010,Kerala,26.8
+2010,Lakshadweep,27.99
+2010,Maharashtra,27.48
+2010,Manipur,20.35
+2010,Meghalaya,22.65
+2010,Mizoram,22.22
+2010,Nagaland,19.92
+2010,Orissa,26.76
+2010,Punjab,25.24
+2010,Rajasthan,26.8
+2010,Sikkim,5.64
+2010,Tamil Nadu,27.88
+2010,Tripura,25.46
+2010,West Bengal,26.74
+2010,Arunachal Pradesh,19.24
+2010,Bihar,26.4
+2010,Chandigarh,24.38
+2010,Chhattisgarh,26.76
+2010,Dadra and Nagar Haveli,27.08
+2010,Daman and Diu,27.25
+2010,Jharkhand,25.99
+2010,Madhya Pradesh,26.56
+2010,Puducherry,28.78
+2010,Uttar Pradesh,26.63
+2010,Uttarakhand,14.87
+2011,India,24.82
+2011,Andaman and Nicobar,27.15
+2011,Andhra Pradesh,27.81
+2011,Assam,23.53
+2011,Delhi,25.49
+2011,Goa,26.94
+2011,Gujarat,27.23
+2011,Haryana,25.27
+2011,Himachal Pradesh,10.23
+2011,Karnataka,26.16
+2011,Kerala,26.57
+2011,Lakshadweep,27.8
+2011,Maharashtra,26.86
+2011,Manipur,19.91
+2011,Meghalaya,22.04
+2011,Mizoram,21.76
+2011,Nagaland,19.48
+2011,Orissa,26.14
+2011,Punjab,24.76
+2011,Rajasthan,26.13
+2011,Sikkim,4.88
+2011,Tamil Nadu,27.69
+2011,Tripura,24.98
+2011,West Bengal,26.02
+2011,Arunachal Pradesh,18.84
+2011,Bihar,25.63
+2011,Chandigarh,23.88
+2011,Chhattisgarh,26.06
+2011,Dadra and Nagar Haveli,26.54
+2011,Daman and Diu,26.71
+2011,Jharkhand,25.23
+2011,Madhya Pradesh,25.73
+2011,Puducherry,28.56
+2011,Uttar Pradesh,25.85
+2011,Uttarakhand,14.29
+2012,India,24.77
+2012,Andaman and Nicobar,27.47
+2012,Andhra Pradesh,28.06
+2012,Assam,23.05
+2012,Delhi,25.32
+2012,Goa,27.14
+2012,Gujarat,27
+2012,Haryana,25.09
+2012,Himachal Pradesh,10.03
+2012,Karnataka,26.39
+2012,Kerala,26.82
+2012,Lakshadweep,28.01
+2012,Maharashtra,26.94
+2012,Manipur,19.48
+2012,Meghalaya,21.47
+2012,Mizoram,21.21
+2012,Nagaland,19.05
+2012,Orissa,26.12
+2012,Punjab,24.53
+2012,Rajasthan,25.87
+2012,Sikkim,4.69
+2012,Tamil Nadu,27.93
+2012,Tripura,24.4
+2012,West Bengal,25.62
+2012,Arunachal Pradesh,18.6
+2012,Bihar,25.48
+2012,Chandigarh,23.7
+2012,Chhattisgarh,26.21
+2012,Dadra and Nagar Haveli,26.5
+2012,Daman and Diu,26.59
+2012,Jharkhand,25.06
+2012,Madhya Pradesh,25.78
+2012,Puducherry,28.79
+2012,Uttar Pradesh,25.85
+2012,Uttarakhand,14.2
+2013,India,24.64
+2013,Andaman and Nicobar,27.4
+2013,Andhra Pradesh,27.78
+2013,Assam,23.14
+2013,Delhi,25.31
+2013,Goa,26.96
+2013,Gujarat,27
+2013,Haryana,25.2
+2013,Himachal Pradesh,10.2
+2013,Karnataka,26.18
+2013,Kerala,26.64
+2013,Lakshadweep,27.88
+2013,Maharashtra,26.68
+2013,Manipur,19.53
+2013,Meghalaya,21.52
+2013,Mizoram,21.17
+2013,Nagaland,19.15
+2013,Orissa,25.74
+2013,Punjab,24.78
+2013,Rajasthan,25.99
+2013,Sikkim,4.77
+2013,Tamil Nadu,27.7
+2013,Tripura,24.3
+2013,West Bengal,25.47
+2013,Arunachal Pradesh,18.73
+2013,Bihar,25.3
+2013,Chandigarh,23.83
+2013,Chhattisgarh,25.83
+2013,Dadra and Nagar Haveli,26.35
+2013,Daman and Diu,26.56
+2013,Jharkhand,24.79
+2013,Madhya Pradesh,25.49
+2013,Puducherry,28.57
+2013,Uttar Pradesh,25.62
+2013,Uttarakhand,14.13
+2014,India,24.77
+2014,Andaman and Nicobar,27.44
+2014,Andhra Pradesh,28.02
+2014,Assam,23.52
+2014,Delhi,25.21
+2014,Goa,27.22
+2014,Gujarat,27.28
+2014,Haryana,25.01
+2014,Himachal Pradesh,9.91
+2014,Karnataka,26.41
+2014,Kerala,26.77
+2014,Lakshadweep,28.02
+2014,Maharashtra,27
+2014,Manipur,19.92
+2014,Meghalaya,21.77
+2014,Mizoram,21.52
+2014,Nagaland,19.5
+2014,Orissa,25.91
+2014,Punjab,24.42
+2014,Rajasthan,25.95
+2014,Sikkim,4.9
+2014,Tamil Nadu,27.85
+2014,Tripura,24.68
+2014,West Bengal,25.73
+2014,Arunachal Pradesh,19.02
+2014,Bihar,25.34
+2014,Chandigarh,23.56
+2014,Chhattisgarh,26.02
+2014,Dadra and Nagar Haveli,26.7
+2014,Daman and Diu,26.85
+2014,Jharkhand,24.87
+2014,Madhya Pradesh,25.73
+2014,Puducherry,28.72
+2014,Uttar Pradesh,25.65
+2014,Uttarakhand,14.02
+2015,India,24.89
+2015,Andaman and Nicobar,27.65
+2015,Andhra Pradesh,28.05
+2015,Assam,23.25
+2015,Delhi,25.51
+2015,Goa,27.33
+2015,Gujarat,27.62
+2015,Haryana,25.24
+2015,Himachal Pradesh,10.17
+2015,Karnataka,26.46
+2015,Kerala,26.74
+2015,Lakshadweep,27.98
+2015,Maharashtra,27.21
+2015,Manipur,19.53
+2015,Meghalaya,21.55
+2015,Mizoram,21.23
+2015,Nagaland,19.16
+2015,Orissa,26.03
+2015,Punjab,24.62
+2015,Rajasthan,26.21
+2015,Sikkim,4.58
+2015,Tamil Nadu,27.8
+2015,Tripura,24.44
+2015,West Bengal,25.61
+2015,Arunachal Pradesh,18.73
+2015,Bihar,25.3
+2015,Chandigarh,23.78
+2015,Chhattisgarh,26.16
+2015,Dadra and Nagar Haveli,27.01
+2015,Daman and Diu,27.2
+2015,Jharkhand,24.85
+2015,Madhya Pradesh,25.96
+2015,Puducherry,28.68
+2015,Uttar Pradesh,25.85
+2015,Uttarakhand,14.27
+2016,India,25.27
+2016,Andaman and Nicobar,27.69
+2016,Andhra Pradesh,28.23
+2016,Assam,23.58
+2016,Delhi,26.45
+2016,Goa,27.25
+2016,Gujarat,27.61
+2016,Haryana,26.17
+2016,Himachal Pradesh,11.18
+2016,Karnataka,26.51
+2016,Kerala,27.06
+2016,Lakshadweep,28.41
+2016,Maharashtra,27.2
+2016,Manipur,19.94
+2016,Meghalaya,22.05
+2016,Mizoram,21.73
+2016,Nagaland,19.49
+2016,Orissa,26.35
+2016,Punjab,25.59
+2016,Rajasthan,26.8
+2016,Sikkim,5.08
+2016,Tamil Nadu,28.15
+2016,Tripura,24.94
+2016,West Bengal,26.07
+2016,Arunachal Pradesh,18.99
+2016,Bihar,25.81
+2016,Chandigarh,24.83
+2016,Chhattisgarh,26.46
+2016,Dadra and Nagar Haveli,26.85
+2016,Daman and Diu,27.03
+2016,Jharkhand,25.31
+2016,Madhya Pradesh,26.29
+2016,Puducherry,29
+2016,Uttar Pradesh,26.56
+2016,Uttarakhand,15.26
+2017,India,25.15
+2017,Andaman and Nicobar,27.58
+2017,Andhra Pradesh,28.29
+2017,Assam,23.57
+2017,Delhi,26.07
+2017,Goa,27.39
+2017,Gujarat,27.56
+2017,Haryana,25.84
+2017,Himachal Pradesh,10.78
+2017,Karnataka,26.59
+2017,Kerala,26.9
+2017,Lakshadweep,28.13
+2017,Maharashtra,27.27
+2017,Manipur,19.81
+2017,Meghalaya,21.89
+2017,Mizoram,21.51
+2017,Nagaland,19.47
+2017,Orissa,26.25
+2017,Punjab,25.28
+2017,Rajasthan,26.55
+2017,Sikkim,4.97
+2017,Tamil Nadu,27.99
+2017,Tripura,24.7
+2017,West Bengal,25.82
+2017,Arunachal Pradesh,19.09
+2017,Bihar,25.57
+2017,Chandigarh,24.45
+2017,Chhattisgarh,26.4
+2017,Dadra and Nagar Haveli,26.89
+2017,Daman and Diu,27.04
+2017,Jharkhand,25.08
+2017,Madhya Pradesh,26.17
+2017,Puducherry,28.87
+2017,Uttar Pradesh,26.26
+2017,Uttarakhand,14.87
+2018,India,25
+2018,Andaman and Nicobar,27.32
+2018,Andhra Pradesh,28.03
+2018,Assam,23.21
+2018,Delhi,26.03
+2018,Goa,27.27
+2018,Gujarat,27.74
+2018,Haryana,25.84
+2018,Himachal Pradesh,10.74
+2018,Karnataka,26.44
+2018,Kerala,26.73
+2018,Lakshadweep,27.92
+2018,Maharashtra,27.14
+2018,Manipur,19.5
+2018,Meghalaya,21.51
+2018,Mizoram,21.1
+2018,Nagaland,19.13
+2018,Orissa,25.86
+2018,Punjab,25.29
+2018,Rajasthan,26.68
+2018,Sikkim,4.49
+2018,Tamil Nadu,27.82
+2018,Tripura,24.3
+2018,West Bengal,25.42
+2018,Arunachal Pradesh,18.76
+2018,Bihar,25.2
+2018,Chandigarh,24.42
+2018,Chhattisgarh,26.07
+2018,Dadra and Nagar Haveli,26.97
+2018,Daman and Diu,27.19
+2018,Jharkhand,24.65
+2018,Madhya Pradesh,26.04
+2018,Puducherry,28.72
+2018,Uttar Pradesh,26.12
+2018,Uttarakhand,14.81
+2019,India,24.94
+2019,Andaman and Nicobar,27.76
+2019,Andhra Pradesh,28.37
+2019,Assam,23.44
+2019,Delhi,25.28
+2019,Goa,27.39
+2019,Gujarat,27.41
+2019,Haryana,25.06
+2019,Himachal Pradesh,9.95
+2019,Karnataka,26.67
+2019,Kerala,27.05
+2019,Lakshadweep,28.26
+2019,Maharashtra,27.2
+2019,Manipur,19.85
+2019,Meghalaya,21.82
+2019,Mizoram,21.54
+2019,Nagaland,19.41
+2019,Orissa,26.16
+2019,Punjab,24.45
+2019,Rajasthan,26.1
+2019,Sikkim,4.79
+2019,Tamil Nadu,28.18
+2019,Tripura,24.72
+2019,West Bengal,25.73
+2019,Arunachal Pradesh,19.01
+2019,Bihar,25.37
+2019,Chandigarh,23.56
+2019,Chhattisgarh,26.29
+2019,Dadra and Nagar Haveli,26.79
+2019,Daman and Diu,26.96
+2019,Jharkhand,24.96
+2019,Madhya Pradesh,25.94
+2019,Puducherry,29.08
+2019,Uttar Pradesh,25.74
+2019,Uttarakhand,14.05
+2020,India,24.8
+2020,Andaman and Nicobar,27.8
+2020,Andhra Pradesh,28.06
+2020,Assam,23.33
+2020,Delhi,25.31
+2020,Goa,27.28
+2020,Gujarat,27.44
+2020,Haryana,25.09
+2020,Himachal Pradesh,10.07
+2020,Karnataka,26.51
+2020,Kerala,27.01
+2020,Lakshadweep,28.3
+2020,Maharashtra,27.04
+2020,Manipur,19.7
+2020,Meghalaya,21.66
+2020,Mizoram,21.33
+2020,Nagaland,19.32
+2020,Orissa,25.86
+2020,Punjab,24.54
+2020,Rajasthan,26.08
+2020,Sikkim,4.57
+2020,Tamil Nadu,28.07
+2020,Tripura,24.51
+2020,West Bengal,25.51
+2020,Arunachal Pradesh,18.89
+2020,Bihar,25.18
+2020,Chandigarh,23.71
+2020,Chhattisgarh,25.98
+2020,Dadra and Nagar Haveli,26.8
+2020,Daman and Diu,27.04
+2020,Jharkhand,24.69
+2020,Madhya Pradesh,25.75
+2020,Puducherry,28.93
+2020,Uttar Pradesh,25.62
+2020,Uttarakhand,14.14
